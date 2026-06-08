@@ -8,7 +8,6 @@ $config = [
     'name' => 'Yii2 Starter Kit',
     'vendorPath' => __DIR__ . '/../../vendor',
     'extensions' => require(__DIR__ . '/../../vendor/yiisoft/extensions.php'),
-//    'language' => 'uz-UZ',
     'bootstrap' => [
         'queue',
         'log',
@@ -164,11 +163,7 @@ $config = [
             'channel' => 'default',
             'mutex' => PgsqlMutex::class,
         ],
-        'hashidService' => [
-            'class' => 'common\components\HashidsComponent',
-            'salt' => 'evalue-model-id', // Replace with your custom salt
-            'minHashLength' => 10, // Minimum hash length
-        ],
+
 
     ],
     'params' => [

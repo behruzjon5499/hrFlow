@@ -89,8 +89,10 @@ class LoginForm extends Model
         if (!$this->validate()) {
             return false;
         }
+
         $duration = $this->rememberMe ? Time::SECONDS_IN_A_MONTH : 0;
         if (Yii::$app->user->login($this->getUser(), $duration)) {
+
 
             return true;
         }

@@ -4,9 +4,6 @@ namespace api\modules\auth\resources;
 
 use backend\modules\rbac\models\RbacAuthAssignment;
 use backend\modules\rbac\models\RbacAuthItemChild;
-use common\models\Services;
-use common\models\UserService;
-use common\models\UserServiceBonus;
 use Yii;
 use yii\helpers\ArrayHelper;
 

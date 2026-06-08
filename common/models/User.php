@@ -88,12 +88,7 @@ class User extends ActiveRecord implements IdentityInterface
     public static function findIdentityByAccessToken($token, $type = null)
     {
 
-        $token = Token::find()->andWhere(['token' => $token])->andWhere(['status' => Token::STATUS_ACTIVE])->andWhere(['>=', 'expired_at', time()])->one();
-
-        if ($token) {
-            return $token->user;
-        }
-        throw new UnauthorizedHttpException("Your request was made with invalid credentials.");
+        return self::find()->andWhere(['auth_key' => $token])->one(); //throw new NotSupportedException('"findIdentityByAccessToken" is not implemented.');
     }
 
     /**
