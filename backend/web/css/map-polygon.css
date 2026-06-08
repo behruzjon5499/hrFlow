@@ -1,0 +1,654 @@
+/* .hidden utility — Bootstrap 4 removes it */
+.hidden { display: none !important; }
+
+/* ===================================================================
+   Map Polygon — full-page layout overrides
+   =================================================================== */
+
+body.map-polygon-page .content-wrapper {
+    padding: 0 !important;
+    overflow: hidden;
+}
+
+body.map-polygon-page .content-wrapper > section.content {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+body.map-polygon-page .content-wrapper > .content-header {
+    display: none;
+}
+
+#map-page-wrapper {
+    position: relative;
+    width: 100%;
+    height: calc(100vh - 50px); /* 50px = AdminLTE navbar height */
+    overflow: hidden;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background: #e8ede8;
+}
+
+#map.map-similar-select-mode {
+    cursor: crosshair !important;
+}
+
+#map.map-similar-select-mode .leaflet-interactive {
+    cursor: pointer !important;
+}
+
+/* ===================================================================
+   Polygon Detail Panel
+   =================================================================== */
+
+.map-panel {
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    z-index: 1000;
+    width: 310px;
+    background: #ffffff;
+    border-radius: 14px;
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.18);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+    max-height: calc(100vh - 100px);
+}
+
+.map-panel.hidden {
+    display: none !important;
+}
+
+/* --- Panel Header --- */
+.map-panel-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 16px 12px;
+    border-bottom: 1px solid #f0f0f0;
+    flex-shrink: 0;
+}
+
+.map-panel-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 600;
+    color: #1a1a2e;
+    font-size: 14px;
+}
+
+.map-panel-title svg {
+    color: #3b82f6;
+    flex-shrink: 0;
+}
+
+.map-panel-close {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #9ca3af;
+    font-size: 20px;
+    line-height: 1;
+    padding: 0 2px;
+    transition: color 0.15s;
+}
+
+.map-panel-close:hover {
+    color: #374151;
+}
+
+/* --- Panel Body --- */
+.map-panel-body {
+    padding: 14px 16px;
+    overflow-y: auto;
+    flex: 1;
+}
+
+.map-panel-section {
+    margin-bottom: 16px;
+}
+
+.map-panel-section:last-child {
+    margin-bottom: 4px;
+}
+
+.map-panel-section > label {
+    display: block;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.9px;
+    color: #9ca3af;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+}
+
+/* --- Color Selection --- */
+.color-options {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.color-btn {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    cursor: pointer;
+    transition: border-color 0.15s, transform 0.1s;
+    padding: 0;
+    outline: none;
+    flex-shrink: 0;
+}
+
+.color-btn:hover {
+    transform: scale(1.1);
+}
+
+.color-btn.active {
+    border-color: #111827;
+    box-shadow: 0 0 0 1px #111827;
+}
+
+.color-picker-wrap {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    border: 2px solid #e5e7eb;
+    cursor: pointer;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #e5e7eb 50%, #d1d5db 50%);
+    position: relative;
+    transition: border-color 0.15s;
+}
+
+.color-picker-wrap:hover {
+    border-color: #9ca3af;
+}
+
+.color-picker-wrap svg {
+    pointer-events: none;
+    position: absolute;
+    color: #6b7280;
+}
+
+#custom-color {
+    position: absolute;
+    opacity: 0;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+/* --- Zone Category --- */
+.zone-options {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 7px;
+}
+
+.zone-btn {
+    padding: 9px 10px;
+    border: 1.5px solid #e5e7eb;
+    border-radius: 9px;
+    background: #ffffff;
+    cursor: pointer;
+    font-size: 12px;
+    text-align: left;
+    transition: border-color 0.15s, background 0.15s, color 0.15s;
+    color: #374151;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.zone-btn:hover {
+    border-color: #93c5fd;
+    background: #eff6ff;
+}
+
+.zone-btn.active {
+    border-color: #3b82f6;
+    background: #eff6ff;
+    color: #1d4ed8;
+    font-weight: 500;
+}
+
+/* --- Form selects --- */
+.map-panel-body select.form-control {
+    border-radius: 8px;
+    border-color: #e5e7eb;
+    font-size: 13px;
+    padding: 6px 10px;
+    height: auto;
+    color: #374151;
+}
+
+.map-panel-body select.form-control:focus {
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+    outline: none;
+}
+
+/* --- Address display --- */
+.address-display-wrap {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.address-icon {
+    position: absolute;
+    left: 10px;
+    color: #9ca3af;
+    pointer-events: none;
+    flex-shrink: 0;
+}
+
+.address-display {
+    width: 100%;
+    padding: 6px 10px 6px 30px;
+    border: 1.5px solid #e5e7eb;
+    border-radius: 8px;
+    font-size: 12px;
+    color: #374151;
+    background: #f9fafb;
+    cursor: default;
+    outline: none;
+}
+
+.address-display::placeholder {
+    color: #d1d5db;
+    font-style: italic;
+}
+
+/* --- Similar tags --- */
+.similar-tags-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    min-height: 28px;
+    margin-bottom: 8px;
+}
+
+.similar-tags-empty {
+    font-size: 12px;
+    color: #d1d5db;
+    font-style: italic;
+    line-height: 28px;
+}
+
+.similar-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+    border-radius: 20px;
+    padding: 3px 8px 3px 10px;
+    font-size: 12px;
+    color: #1d4ed8;
+    max-width: 100%;
+}
+
+.similar-tag-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 190px;
+}
+
+.similar-tag-remove {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #93c5fd;
+    font-size: 15px;
+    line-height: 1;
+    padding: 0;
+    flex-shrink: 0;
+    transition: color 0.15s;
+}
+
+.similar-tag-remove:hover {
+    color: #1d4ed8;
+}
+
+/* --- Add from map button --- */
+.btn-add-similar {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 6px 12px;
+    border: 1.5px dashed #93c5fd;
+    border-radius: 8px;
+    background: transparent;
+    color: #3b82f6;
+    font-size: 12px;
+    cursor: pointer;
+    transition: background 0.15s, border-color 0.15s, color 0.15s;
+    width: 100%;
+    justify-content: center;
+}
+
+.btn-add-similar:hover {
+    background: #eff6ff;
+    border-color: #3b82f6;
+}
+
+.btn-add-similar.selecting {
+    background: #fef3c7;
+    border-color: #f59e0b;
+    border-style: solid;
+    color: #92400e;
+}
+
+/* --- Panel Footer --- */
+.map-panel-footer {
+    display: flex;
+    gap: 8px;
+    padding: 12px 16px;
+    border-top: 1px solid #f0f0f0;
+    flex-shrink: 0;
+}
+
+.map-panel-footer .btn {
+    border-radius: 9px;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 8px 14px;
+    transition: opacity 0.15s;
+}
+
+.map-panel-footer .btn-discard {
+    flex: 1;
+    background: #f9fafb;
+    border: 1.5px solid #e5e7eb;
+    color: #374151;
+}
+
+.map-panel-footer .btn-discard:hover {
+    background: #f3f4f6;
+}
+
+.map-panel-footer .btn-danger {
+    flex: 1;
+}
+
+.map-panel-footer .btn-save {
+    flex: 2;
+    background: #2563eb;
+    border: none;
+    color: #ffffff;
+}
+
+.map-panel-footer .btn-save:hover {
+    background: #1d4ed8;
+}
+
+/* ===================================================================
+   Similar select mode hint banner
+   =================================================================== */
+
+.similar-select-hint {
+    position: absolute;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1010;
+    background: #1e293b;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+    white-space: nowrap;
+}
+
+.similar-select-hint button {
+    background: rgba(255,255,255,0.15);
+    border: 1px solid rgba(255,255,255,0.3);
+    color: #ffffff;
+    border-radius: 6px;
+    padding: 4px 12px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: background 0.15s;
+}
+
+.similar-select-hint button:hover {
+    background: rgba(255,255,255,0.25);
+}
+
+/* ===================================================================
+   Toast notification
+   =================================================================== */
+
+#map-notification {
+    position: absolute;
+    top: 16px;
+    right: 60px;
+    z-index: 1010;
+    padding: 10px 18px;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 500;
+    pointer-events: none;
+    opacity: 0;
+    transform: translateY(-6px);
+    transition: opacity 0.25s, transform 0.25s;
+    max-width: 280px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+}
+
+#map-notification.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+#map-notification.success {
+    background: #d1fae5;
+    color: #065f46;
+    border: 1px solid #6ee7b7;
+}
+
+#map-notification.error {
+    background: #fee2e2;
+    color: #991b1b;
+    border: 1px solid #fca5a5;
+}
+
+/* ===================================================================
+   Leaflet Draw toolbar tweaks
+   =================================================================== */
+
+.leaflet-draw-toolbar a {
+    border-radius: 6px !important;
+}
+
+.leaflet-bar a {
+    border-radius: 6px !important;
+}
+
+/* ===================================================================
+   Map Search
+   =================================================================== */
+
+.map-search {
+    position: absolute;
+    top: 16px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000;
+    width: 340px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.map-search-input-wrap {
+    display: flex;
+    align-items: center;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 2px 16px rgba(0, 0, 0, 0.18);
+    padding: 0 12px;
+    height: 44px;
+    gap: 8px;
+}
+
+.map-search-icon {
+    color: #9ca3af;
+    flex-shrink: 0;
+}
+
+.map-search-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    color: #111827;
+    background: transparent;
+    min-width: 0;
+}
+
+.map-search-input::placeholder {
+    color: #d1d5db;
+}
+
+.map-search-clear {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #9ca3af;
+    font-size: 18px;
+    line-height: 1;
+    padding: 0;
+    flex-shrink: 0;
+    transition: color 0.15s;
+}
+
+.map-search-clear:hover {
+    color: #374151;
+}
+
+.map-search-results {
+    list-style: none;
+    margin: 6px 0 0;
+    padding: 6px 0;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+    max-height: 280px;
+    overflow-y: auto;
+}
+
+.map-search-results.hidden {
+    display: none;
+}
+
+.map-search-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px 14px;
+    cursor: pointer;
+    transition: background 0.1s;
+}
+
+.map-search-item:hover,
+.map-search-item.active {
+    background: #f3f4f6;
+}
+
+.map-search-item-icon {
+    flex-shrink: 0;
+    margin-top: 2px;
+    color: #6b7280;
+}
+
+.map-search-item-body {
+    flex: 1;
+    min-width: 0;
+}
+
+.map-search-item-name {
+    font-size: 13px;
+    font-weight: 600;
+    color: #111827;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.map-search-item-detail {
+    font-size: 11px;
+    color: #9ca3af;
+    margin-top: 1px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.map-search-empty {
+    padding: 12px 14px;
+    font-size: 13px;
+    color: #9ca3af;
+    text-align: center;
+}
+
+.map-search-loading {
+    padding: 12px 14px;
+    font-size: 13px;
+    color: #6b7280;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.map-search-spinner {
+    width: 14px;
+    height: 14px;
+    border: 2px solid #e5e7eb;
+    border-top-color: #3b82f6;
+    border-radius: 50%;
+    animation: spin 0.7s linear infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+/* Search result marker pin */
+.search-marker-pin {
+    width: 24px;
+    height: 24px;
+    background: #2563eb;
+    border: 3px solid #ffffff;
+    border-radius: 50% 50% 50% 0;
+    transform: rotate(-45deg);
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.5);
+    animation: pin-drop 0.3s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+}
+
+@keyframes pin-drop {
+    from { transform: rotate(-45deg) translateY(-12px); opacity: 0; }
+    to   { transform: rotate(-45deg) translateY(0);     opacity: 1; }
+}

@@ -1,0 +1,6305 @@
+{
+  "categories": [
+    {
+      "auto_type_id": 5,
+      "category": "Avtobus",
+      "description": "Shahar, shaharlararo, turistik, elektr va vodorodli avtobuslar",
+      "brands": [
+        {
+          "id": 1,
+          "country": "Germaniya",
+          "brand": "Mercedes-Benz",
+          "types": [
+            "Shahar: Citaro, Citaro G (bo'g'imli), eCitaro, eCitaro G",
+            "Turistik: Tourismo, Tourismo RHD",
+            "Shaharlararo: Intouro, Conecto",
+            "Minibus: Sprinter City, Sprinter Transfer",
+            "Ikki qavatli: Setra TopClass S 531 DT"
+          ],
+          "models": [
+            "Citaro",
+            "Citaro G",
+            "eCitaro",
+            "eCitaro G",
+            "Tourismo",
+            "Tourismo RHD",
+            "Intouro",
+            "Conecto",
+            "Sprinter City",
+            "Sprinter Transfer",
+            "Setra S531 DT"
+          ]
+        },
+        {
+          "id": 2,
+          "country": "Germaniya",
+          "brand": "MAN",
+          "types": [
+            "Shahar: Lion's City, Lion's City G, Lion's City E (elektr), Lion's City CNG",
+            "Shaharlararo: Lion's Intercity, Lion's Intercity LE",
+            "Turistik: Lion's Coach, Lion's Coach C",
+            "Minibus: TGE Minibus"
+          ],
+          "models": [
+            "Lion's City",
+            "Lion's City G",
+            "Lion's City E",
+            "Lion's City CNG",
+            "Lion's Intercity",
+            "Lion's Intercity LE",
+            "Lion's Coach",
+            "Lion's Coach C",
+            "TGE Minibus"
+          ]
+        },
+        {
+          "id": 3,
+          "country": "Germaniya",
+          "brand": "Setra",
+          "types": [
+            "Turistik: S511HD, S515HD, S516HD, S517HD, S531DT (ikki qavatli)",
+            "Shaharlararo: S415LE, S416LE",
+            "MultiClass: S412UL, S415UL, S416UL, S418LE"
+          ],
+          "models": [
+            "S511HD",
+            "S515HD",
+            "S516HD",
+            "S517HD",
+            "S531DT",
+            "S415LE",
+            "S416LE",
+            "S412UL",
+            "S415UL",
+            "S416UL",
+            "S418LE"
+          ]
+        },
+        {
+          "id": 4,
+          "country": "Germaniya",
+          "brand": "Neoplan",
+          "types": [
+            "Turistik: Tourliner, Tourliner C, Skyliner (ikki qavatli), Cityliner",
+            "Shahar: Centroliner (tarixiy)"
+          ],
+          "models": [
+            "Tourliner",
+            "Tourliner C",
+            "Skyliner",
+            "Cityliner",
+            "Centroliner"
+          ]
+        },
+        {
+          "id": 5,
+          "country": "Shvetsiya",
+          "brand": "Volvo Buses",
+          "types": [
+            "Shahar: 7900, 7900 Electric, 7900 Hybrid, 7900 S-Charge",
+            "Bo'g'imli: 7900 EA",
+            "BRT: 8900",
+            "Turistik: 9700, 9900",
+            "Shassi: B5L, B8R, B8L, B11R, BZL Electric"
+          ],
+          "models": [
+            "7900",
+            "7900 Electric",
+            "7900 Hybrid",
+            "7900 EA",
+            "8900",
+            "9700",
+            "9900",
+            "BZL Electric"
+          ]
+        },
+        {
+          "id": 6,
+          "country": "Shvetsiya",
+          "brand": "Scania",
+          "types": [
+            "Shahar: Citywide, Citywide LE, Citywide LF, Citywide BEV, Citywide Suburban",
+            "Turistik: Touring, Touring HD",
+            "Shaharlararo: Interlink, Interlink LD, Interlink MD"
+          ],
+          "models": [
+            "Citywide",
+            "Citywide LE",
+            "Citywide LF",
+            "Citywide BEV",
+            "Touring",
+            "Touring HD",
+            "Interlink",
+            "Interlink LD",
+            "Interlink MD"
+          ]
+        },
+        {
+          "id": 7,
+          "country": "Niderlandiya",
+          "brand": "VDL Bus & Coach",
+          "types": [
+            "Shahar: Citea, Citea LLE, Citea SLF, Citea SLFA (bo'g'imli), Citea Electric",
+            "Turistik: Futura FHD2, Futura FDD2 (ikki qavatli), Futura FMD2",
+            "Minibus: MidCity, MidBasic"
+          ],
+          "models": [
+            "Citea",
+            "Citea LLE",
+            "Citea SLF",
+            "Citea SLFA",
+            "Citea Electric",
+            "Futura FHD2",
+            "Futura FDD2",
+            "Futura FMD2",
+            "MidCity",
+            "MidBasic"
+          ]
+        },
+        {
+          "id": 8,
+          "country": "Niderlandiya",
+          "brand": "Ebusco",
+          "types": [
+            "Elektr: Ebusco 2.2 (12m), Ebusco 3.0 (kompozit kuzov, 18m bo'g'imli)"
+          ],
+          "models": [
+            "Ebusco 2.2",
+            "Ebusco 3.0"
+          ]
+        },
+        {
+          "id": 9,
+          "country": "Fransiya",
+          "brand": "Iveco Bus (Heuliez)",
+          "types": [
+            "Shahar: Urbanway, Urbanway Hybrid, Urbanway CNG, Urbanway Full Hybrid",
+            "Bo'g'imli: Crealis",
+            "Shaharlararo: Crossway, Crossway LE, Crossway Pop",
+            "Turistik: Evadys, Magelys",
+            "Elektr: E-Way",
+            "Minibus: Daily Minibus"
+          ],
+          "models": [
+            "Urbanway",
+            "Urbanway Hybrid",
+            "Urbanway CNG",
+            "Crealis",
+            "Crossway",
+            "Crossway LE",
+            "Crossway Pop",
+            "Evadys",
+            "Magelys",
+            "E-Way",
+            "Daily Minibus"
+          ]
+        },
+        {
+          "id": 10,
+          "country": "Fransiya",
+          "brand": "Safra",
+          "types": [
+            "Vodorod: Businova (vodorod-elektr gibrid)"
+          ],
+          "models": [
+            "Businova"
+          ]
+        },
+        {
+          "id": 11,
+          "country": "Fransiya",
+          "brand": "Bluebus",
+          "types": [
+            "Elektr: Bluebus 6m, Bluebus 12m (to'liq elektr, LMP batareya)"
+          ],
+          "models": [
+            "Bluebus 6m",
+            "Bluebus 12m"
+          ]
+        },
+        {
+          "id": 12,
+          "country": "Italiya",
+          "brand": "Iveco Bus",
+          "types": [
+            "Shahar: Urbanway, E-Way (elektr, 12m va 18m)",
+            "Shaharlararo: Crossway, Crossway Low Entry",
+            "Turistik: Evadys, Magelys, Magelys Pro",
+            "Minibus: Daily Tourys, Daily Line, Daily Minibus, eDaily Minibus"
+          ],
+          "models": [
+            "Urbanway",
+            "E-Way",
+            "Crossway",
+            "Crossway Low Entry",
+            "Evadys",
+            "Magelys",
+            "Magelys Pro",
+            "Daily Tourys",
+            "Daily Line",
+            "Daily Minibus",
+            "eDaily Minibus"
+          ]
+        },
+        {
+          "id": 13,
+          "country": "Ispaniya",
+          "brand": "Irizar",
+          "types": [
+            "Turistik: i6, i6S, i8, i6S Efficient",
+            "Shahar: ie bus (elektr, 10.8m va 12m), ie tram (12m va 18m)",
+            "Shaharlararo: i4, i4H",
+            "Minibus: i3le"
+          ],
+          "models": [
+            "i6",
+            "i6S",
+            "i8",
+            "ie bus",
+            "ie tram",
+            "i4",
+            "i4H",
+            "i3le"
+          ]
+        },
+        {
+          "id": 14,
+          "country": "Ispaniya",
+          "brand": "Castrosua",
+          "types": [
+            "Shahar: Tempus, City Versus, Stellae",
+            "Shaharlararo: Magnus, Intercity CS.40",
+            "Turistik: Stellae LE"
+          ],
+          "models": [
+            "Tempus",
+            "City Versus",
+            "Stellae",
+            "Magnus",
+            "Intercity CS.40",
+            "Stellae LE"
+          ]
+        },
+        {
+          "id": 15,
+          "country": "Ispaniya",
+          "brand": "Unvi",
+          "types": [
+            "Turistik: Touring GT, Touring HD",
+            "Minibus: Vega, Vega XL, Cimo, Compa T",
+            "Maxsus: Urbe (aeroport shuttle)"
+          ],
+          "models": [
+            "Touring GT",
+            "Touring HD",
+            "Vega",
+            "Vega XL",
+            "Cimo",
+            "Compa T",
+            "Urbe"
+          ]
+        },
+        {
+          "id": 16,
+          "country": "Buyuk Britaniya",
+          "brand": "Alexander Dennis (NFI)",
+          "types": [
+            "Ikki qavatli: Enviro400, Enviro400EV, Enviro400H, Enviro400 City, Enviro400 FCEV",
+            "Bir qavatli: Enviro200, Enviro200EV",
+            "Bo'g'imli: Enviro200XLB",
+            "Turistik: Plaxton Leopard, Plaxton Panther, Plaxton Elite"
+          ],
+          "models": [
+            "Enviro400",
+            "Enviro400EV",
+            "Enviro400H",
+            "Enviro400 FCEV",
+            "Enviro200",
+            "Enviro200EV",
+            "Plaxton Leopard",
+            "Plaxton Panther",
+            "Plaxton Elite"
+          ]
+        },
+        {
+          "id": 17,
+          "country": "Buyuk Britaniya",
+          "brand": "Wrightbus",
+          "types": [
+            "Ikki qavatli: StreetDeck, StreetDeck Electroliner, StreetDeck BEV, StreetDeck FCEV",
+            "Bir qavatli: StreetVibe, StreetVibe BEV, GB Kite, GB Kite Hydroliner",
+            "Minibus: MicroRider"
+          ],
+          "models": [
+            "StreetDeck",
+            "StreetDeck Electroliner",
+            "StreetDeck FCEV",
+            "StreetVibe",
+            "GB Kite",
+            "GB Kite Hydroliner",
+            "MicroRider"
+          ]
+        },
+        {
+          "id": 18,
+          "country": "Polsha",
+          "brand": "Solaris Bus & Coach",
+          "types": [
+            "Shahar: Urbino 8.9, Urbino 10, Urbino 12, Urbino 15, Urbino 18, Urbino 24",
+            "Elektr: Urbino 9/12/15/18 Electric",
+            "Trolleybus: Trollino 12, Trollino 18",
+            "Vodorod: Urbino 12 Hydrogen",
+            "Shaharlararo: InterUrbino 12, InterUrbino 13"
+          ],
+          "models": [
+            "Urbino 8.9",
+            "Urbino 10",
+            "Urbino 12",
+            "Urbino 15",
+            "Urbino 18",
+            "Urbino 24",
+            "Urbino 12 Electric",
+            "Trollino 12",
+            "Trollino 18",
+            "Urbino 12 Hydrogen",
+            "InterUrbino 12",
+            "InterUrbino 13"
+          ]
+        },
+        {
+          "id": 19,
+          "country": "Chexiya",
+          "brand": "SOR Libchavy",
+          "types": [
+            "Shahar: NS12, NB12, NB18, NS8.9, NS10.5",
+            "Elektr: EBN8, EBN11, ENS",
+            "CNG: NBG12, NBG18",
+            "Vodorod: SNH12 (FC)",
+            "Shaharlararo: CN12, C10.5, C12, C7.5"
+          ],
+          "models": [
+            "NS12",
+            "NB12",
+            "NB18",
+            "EBN8",
+            "EBN11",
+            "NBG12",
+            "NBG18",
+            "SNH12",
+            "CN12",
+            "C10.5",
+            "C12"
+          ]
+        },
+        {
+          "id": 20,
+          "country": "Turkiya",
+          "brand": "Mercedes-Benz Türk",
+          "types": [
+            "Shahar: Conecto, Conecto Solo, Conecto G, Conecto Hybrid",
+            "Turistik: Tourismo, Tourismo RHD 15, Tourismo 2+1",
+            "Shaharlararo: Intouro, Intouro E",
+            "Minibus: Sprinter Minibus"
+          ],
+          "models": [
+            "Conecto",
+            "Conecto G",
+            "Conecto Hybrid",
+            "Tourismo",
+            "Tourismo RHD 15",
+            "Intouro",
+            "Intouro E",
+            "Sprinter Minibus"
+          ]
+        },
+        {
+          "id": 21,
+          "country": "Turkiya",
+          "brand": "BMC",
+          "types": [
+            "Shahar: Procity, Procity CNG, Procity 12",
+            "Bo'g'imli: Procity 18",
+            "Shaharlararo: Probus",
+            "Turistik: Probus 850 TBX",
+            "Minibus: Fatih, Probus MidiCity"
+          ],
+          "models": [
+            "Procity",
+            "Procity CNG",
+            "Procity 12",
+            "Procity 18",
+            "Probus",
+            "Probus 850 TBX",
+            "Fatih",
+            "Probus MidiCity"
+          ]
+        },
+        {
+          "id": 22,
+          "country": "Turkiya",
+          "brand": "Otokar",
+          "types": [
+            "Shahar: Kent, Kent C (CNG), Kent XL, Kent U, Doruk, Doruk LE",
+            "Turistik: Ulyso T, Ulyso S",
+            "Shaharlararo: Territo, Territo U",
+            "Minibus: Sultan, Centro, e-Kent (elektr)"
+          ],
+          "models": [
+            "Kent",
+            "Kent C",
+            "Kent XL",
+            "Doruk",
+            "Doruk LE",
+            "Ulyso T",
+            "Ulyso S",
+            "Territo",
+            "Sultan",
+            "Centro",
+            "e-Kent"
+          ]
+        },
+        {
+          "id": 23,
+          "country": "Turkiya",
+          "brand": "Karsan",
+          "types": [
+            "Shahar: Atak, Atak Elektrik, Jest, Jest Elektrik",
+            "Bo'g'imli: Atak 18m",
+            "Avtonom: e-ATA (Level 4)",
+            "Minibus: Jest+ (8m)"
+          ],
+          "models": [
+            "Atak",
+            "Atak Elektrik",
+            "Jest",
+            "Jest Elektrik",
+            "Atak 18m",
+            "e-ATA",
+            "Jest+"
+          ]
+        },
+        {
+          "id": 24,
+          "country": "Turkiya",
+          "brand": "Temsa",
+          "types": [
+            "Turistik: HD 12, HD 13, Maraton, Safir Plus, LD 13",
+            "Shaharlararo: MD9, LF 12",
+            "Shahar: Avenue LF, Avenue Elektrik",
+            "Minibus: Prestij SX",
+            "Elektr: MD9 Electricity, Avenue Electron"
+          ],
+          "models": [
+            "HD 12",
+            "HD 13",
+            "Maraton",
+            "Safir Plus",
+            "MD9",
+            "LF 12",
+            "Avenue LF",
+            "Avenue Elektrik",
+            "Prestij SX",
+            "MD9 Electricity",
+            "Avenue Electron"
+          ]
+        },
+        {
+          "id": 25,
+          "country": "Turkiya",
+          "brand": "Anadolu Isuzu",
+          "types": [
+            "Shahar: Citiport 12, Citiport 18, CitiVolt (elektr)",
+            "Shaharlararo: Interliner, Interurban",
+            "Minibus: Novo, NovoCiti, NovoCiti Life, NovoLux"
+          ],
+          "models": [
+            "Citiport 12",
+            "Citiport 18",
+            "CitiVolt",
+            "Interliner",
+            "Interurban",
+            "Novo",
+            "NovoCiti",
+            "NovoCiti Life",
+            "NovoLux"
+          ]
+        },
+        {
+          "id": 26,
+          "country": "AQSh",
+          "brand": "New Flyer (NFI)",
+          "types": [
+            "Shahar: Xcelsior, Xcelsior CHARGE (elektr), Xcelsior CHARGE H2 (vodorod)",
+            "Bo'g'imli: Xcelsior AV",
+            "CNG: Xcelsior CHARGE NG"
+          ],
+          "models": [
+            "Xcelsior",
+            "Xcelsior CHARGE",
+            "Xcelsior CHARGE H2",
+            "Xcelsior AV",
+            "Xcelsior CHARGE NG"
+          ]
+        },
+        {
+          "id": 27,
+          "country": "AQSh",
+          "brand": "Gillig",
+          "types": [
+            "Shahar: Low Floor 29', 35', 40'",
+            "BRT: BRT Plus",
+            "Elektr: Battery Electric Bus (BEB)"
+          ],
+          "models": [
+            "Low Floor 29",
+            "Low Floor 35",
+            "Low Floor 40",
+            "BRT Plus",
+            "BEB"
+          ]
+        },
+        {
+          "id": 28,
+          "country": "AQSh",
+          "brand": "Proterra",
+          "types": [
+            "Elektr: ZX5, ZX5 Max, ZX5+ (to'liq elektr, 35' va 40')"
+          ],
+          "models": [
+            "ZX5",
+            "ZX5 Max",
+            "ZX5+"
+          ]
+        },
+        {
+          "id": 29,
+          "country": "AQSh",
+          "brand": "MCI (NFI Group)",
+          "types": [
+            "Turistik: J4500, J3500, D45 CRT LE",
+            "Elektr: D45 CRTe LE"
+          ],
+          "models": [
+            "J4500",
+            "J3500",
+            "D45 CRT LE",
+            "D45 CRTe LE"
+          ]
+        },
+        {
+          "id": 30,
+          "country": "Xitoy",
+          "brand": "Yutong",
+          "types": [
+            "Shahar: ZK6126HG, ZK6128HGE (elektr), ZK6106BEVG, E12, E10",
+            "Bo'g'imli: ZK6180BEVG",
+            "Turistik: ZK6122H, ZK6127H, T15, T13, T12",
+            "Shaharlararo: ZK6116H, ZK6906H",
+            "Vodorod: FCB"
+          ],
+          "models": [
+            "ZK6126HG",
+            "ZK6128HGE",
+            "E12",
+            "E10",
+            "ZK6180BEVG",
+            "ZK6122H",
+            "T15",
+            "T13",
+            "T12",
+            "ZK6116H",
+            "FCB"
+          ]
+        },
+        {
+          "id": 31,
+          "country": "Xitoy",
+          "brand": "BYD",
+          "types": [
+            "Elektr shahar: K9 (12m), K8 (10.5m), K7 (8m), K6 (6.7m)",
+            "Bo'g'imli: K11 (18m), K12A (27m)",
+            "Turistik: C9, C8, C10",
+            "Minibus: K5, K4"
+          ],
+          "models": [
+            "K9",
+            "K8",
+            "K7",
+            "K6",
+            "K11",
+            "K12A",
+            "C9",
+            "C8",
+            "C10",
+            "K5",
+            "K4"
+          ]
+        },
+        {
+          "id": 32,
+          "country": "Janubiy Koreya",
+          "brand": "Hyundai",
+          "types": [
+            "Shahar: Super Aero City, Elec City (elektr), Elec City Fuel Cell (vodorod), Blue City (CNG)",
+            "Turistik: Universe, Universe Noble",
+            "Shaharlararo: Aero Town",
+            "Minibus: County, E-County (elektr), Mighty Bus"
+          ],
+          "models": [
+            "Super Aero City",
+            "Elec City",
+            "Elec City Fuel Cell",
+            "Blue City",
+            "Universe",
+            "Universe Noble",
+            "Aero Town",
+            "County",
+            "E-County",
+            "Mighty Bus"
+          ]
+        },
+        {
+          "id": 33,
+          "country": "Yaponiya",
+          "brand": "Hino",
+          "types": [
+            "Shahar: Blue Ribbon, Blue Ribbon Hybrid, Blue Ribbon City Hybrid",
+            "Turistik: Selega, Selega HD, S'elega Super Hi-Decker",
+            "Minibus: Poncho, Poncho EV, Melpha, Liesse II"
+          ],
+          "models": [
+            "Blue Ribbon",
+            "Blue Ribbon Hybrid",
+            "Selega",
+            "Selega HD",
+            "S'elega Super Hi-Decker",
+            "Poncho",
+            "Poncho EV",
+            "Melpha",
+            "Liesse II"
+          ]
+        },
+        {
+          "id": 34,
+          "country": "Yaponiya",
+          "brand": "Isuzu",
+          "types": [
+            "Shahar: Erga, Erga Mio",
+            "Turistik: Gala, Gala HD",
+            "Minibus: Journey"
+          ],
+          "models": [
+            "Erga",
+            "Erga Mio",
+            "Gala",
+            "Gala HD",
+            "Journey"
+          ]
+        },
+        {
+          "id": 35,
+          "country": "Yaponiya",
+          "brand": "Mitsubishi Fuso",
+          "types": [
+            "Shahar: Aero Star, Aero Star Eco Hybrid",
+            "Turistik: Aero Ace, Aero Queen",
+            "Minibus: Rosa, eCanter minibus"
+          ],
+          "models": [
+            "Aero Star",
+            "Aero Star Eco Hybrid",
+            "Aero Ace",
+            "Aero Queen",
+            "Rosa"
+          ]
+        },
+        {
+          "id": 36,
+          "country": "Hindiston",
+          "brand": "Tata Motors",
+          "types": [
+            "Shahar: Starbus, Starbus Urban, Starbus EV",
+            "Shaharlararo: Starbus Ultra, Magna",
+            "Turistik: Starbus Ultra Luxury, Divo",
+            "BRT: Starbus Articulated"
+          ],
+          "models": [
+            "Starbus",
+            "Starbus Urban",
+            "Starbus EV",
+            "Starbus Ultra",
+            "Magna",
+            "Divo",
+            "Starbus Articulated"
+          ]
+        },
+        {
+          "id": 37,
+          "country": "Hindiston",
+          "brand": "Ashok Leyland",
+          "types": [
+            "Shahar: Viking, Lynx Urban, Lynx Smart",
+            "Turistik: Luxura Magical",
+            "Elektr: SWITCH EiV12, SWITCH EiV22, Circuit-S",
+            "Minibus: Oyster, MiTR, Sunshine"
+          ],
+          "models": [
+            "Viking",
+            "Lynx Urban",
+            "Lynx Smart",
+            "Luxura Magical",
+            "SWITCH EiV12",
+            "SWITCH EiV22",
+            "Circuit-S",
+            "Oyster",
+            "MiTR",
+            "Sunshine"
+          ]
+        },
+        {
+          "id": 38,
+          "country": "Rossiya",
+          "brand": "LiAZ",
+          "types": [
+            "Shahar: LiAZ-5292 (12m), LiAZ-6213 (18m), LiAZ-4292 (10m), LiAZ-6274 (elektr)",
+            "CNG: LiAZ-5292 CNG"
+          ],
+          "models": [
+            "LiAZ-5292",
+            "LiAZ-6213",
+            "LiAZ-4292",
+            "LiAZ-6274",
+            "LiAZ-5292 CNG"
+          ]
+        },
+        {
+          "id": 39,
+          "country": "Rossiya",
+          "brand": "PAZ",
+          "types": [
+            "Shahar/shaharlararo: PAZ-3204, PAZ-4234, PAZ-3203, PAZ Vector Next, PAZ Vector 8.8",
+            "Elektr: PAZ Vector Next Electric"
+          ],
+          "models": [
+            "PAZ-3204",
+            "PAZ-4234",
+            "PAZ-3203",
+            "PAZ Vector Next",
+            "PAZ Vector 8.8",
+            "PAZ Vector Next Electric"
+          ]
+        },
+        {
+          "id": 40,
+          "country": "Rossiya",
+          "brand": "GAZ",
+          "types": [
+            "Minibus: GAZelle Next, GAZelle NN, GAZelle City",
+            "O'rta: Vektor Next, Vektor 8.8"
+          ],
+          "models": [
+            "GAZelle Next Avtobus",
+            "GAZelle NN Avtobus",
+            "GAZelle City",
+            "Vektor Next",
+            "Vektor 8.8"
+          ]
+        },
+        {
+          "id": 41,
+          "country": "Belorusiya",
+          "brand": "MAZ",
+          "types": [
+            "Shahar: MAZ 103, MAZ 203, MAZ 215 (18m), MAZ 303",
+            "Trolleybus: MAZ 203T",
+            "Elektr: MAZ 303E10",
+            "Turistik: MAZ 251",
+            "Minibus: MAZ 281"
+          ],
+          "models": [
+            "MAZ 103",
+            "MAZ 203",
+            "MAZ 215",
+            "MAZ 303",
+            "MAZ 203T",
+            "MAZ 303E10",
+            "MAZ 251",
+            "MAZ 281"
+          ]
+        },
+        {
+          "id": 42,
+          "country": "Italiya",
+          "brand": "Irisbus (tarixiy)",
+          "models": [
+            "Citelis",
+            "Recreo",
+            "Arway",
+            "Domino"
+          ]
+        },
+        {
+          "id": 43,
+          "country": "Buyuk Britaniya",
+          "brand": "Optare",
+          "models": [
+            "Solo",
+            "Solo EV",
+            "Versa",
+            "MetroCity",
+            "MetroDecker",
+            "MetroDecker EV"
+          ]
+        },
+        {
+          "id": 44,
+          "country": "Buyuk Britaniya",
+          "brand": "Plaxton (ADL)",
+          "models": [
+            "Leopard",
+            "Panther",
+            "Elite",
+            "Panorama",
+            "Cheetah XL"
+          ]
+        },
+        {
+          "id": 45,
+          "country": "Polsha",
+          "brand": "Autosan",
+          "models": [
+            "Sancity",
+            "Eurolider"
+          ]
+        },
+        {
+          "id": 46,
+          "country": "Chexiya",
+          "brand": "Iveco CR (České Velenice)",
+          "models": [
+            "Crossway"
+          ]
+        },
+        {
+          "id": 47,
+          "country": "Turkiya",
+          "brand": "Güleryyüz",
+          "models": [
+            "Cobra",
+            "Panora",
+            "Voyager",
+            "Ecoline"
+          ]
+        },
+        {
+          "id": 48,
+          "country": "AQSh",
+          "brand": "Blue Bird",
+          "models": [
+            "Vision",
+            "All American"
+          ]
+        },
+        {
+          "id": 49,
+          "country": "AQSh",
+          "brand": "Thomas Built (Daimler)",
+          "models": [
+            "Saf-T-Liner C2",
+            "Saf-T-Liner HDX",
+            "Jouley"
+          ]
+        },
+        {
+          "id": 50,
+          "country": "AQSh",
+          "brand": "IC Bus (Navistar)",
+          "models": [
+            "CE Series",
+            "RE Series",
+            "ME Diesel",
+            "ME Electric",
+            "HC Series",
+            "AC Series"
+          ]
+        },
+        {
+          "id": 51,
+          "country": "AQSh",
+          "brand": "Prevost (Volvo)",
+          "models": [
+            "H3-45",
+            "X3-45",
+            "X3-45 VIP"
+          ]
+        },
+        {
+          "id": 52,
+          "country": "Kanada",
+          "brand": "Nova Bus (Volvo)",
+          "models": [
+            "LFS",
+            "LFS Artic",
+            "LFSe",
+            "LFSe+",
+            "LFS CNG",
+            "LFS BRT"
+          ]
+        },
+        {
+          "id": 53,
+          "country": "Kanada",
+          "brand": "Lion Electric",
+          "models": [
+            "LionA",
+            "LionB",
+            "LionC",
+            "LionD",
+            "LionM"
+          ]
+        },
+        {
+          "id": 54,
+          "country": "Braziliya",
+          "brand": "Marcopolo",
+          "models": [
+            "Torino",
+            "Viale BRT",
+            "Gran Viale BRT",
+            "Viaggio 800",
+            "Viaggio 900",
+            "Viaggio 1050",
+            "Paradiso 1200",
+            "Paradiso 1350",
+            "Paradiso 1600 LD",
+            "Paradiso 1800 DD",
+            "Senior Midi",
+            "Attivi",
+            "Attivi e-Bus"
+          ]
+        },
+        {
+          "id": 55,
+          "country": "Braziliya",
+          "brand": "Caio Induscar",
+          "models": [
+            "Millennium BRT",
+            "Apache Vip",
+            "Giro",
+            "Solar",
+            "Fóz",
+            "Fóz Super"
+          ]
+        },
+        {
+          "id": 56,
+          "country": "Braziliya",
+          "brand": "Comil",
+          "models": [
+            "Invictus",
+            "Invictus DD",
+            "Campione DD",
+            "Campione Invictus",
+            "Svelto",
+            "Versatile",
+            "Doppio"
+          ]
+        },
+        {
+          "id": 57,
+          "country": "Braziliya",
+          "brand": "Busscar",
+          "models": [
+            "Vissta Buss DD",
+            "Vissta Buss 400",
+            "Urbanuss Pluss",
+            "El Buss"
+          ]
+        },
+        {
+          "id": 58,
+          "country": "Braziliya",
+          "brand": "Neobus",
+          "models": [
+            "Mega BRT",
+            "Mega Plus",
+            "New Mega",
+            "Road",
+            "Spectrum Road",
+            "Thunder",
+            "Way"
+          ]
+        },
+        {
+          "id": 59,
+          "country": "Xitoy",
+          "brand": "King Long (Xiamen)",
+          "models": [
+            "XMQ6127G",
+            "XMQ6106G",
+            "XMQ6129Y",
+            "XMQ6112Y",
+            "XMQ6119FY",
+            "XMQ6106AGBEV",
+            "XMQ6601",
+            "XMQ6806"
+          ]
+        },
+        {
+          "id": 60,
+          "country": "Xitoy",
+          "brand": "Zhongtong",
+          "models": [
+            "LCK6127H",
+            "LCK6105HGC",
+            "LCK6129H",
+            "LCK6128H",
+            "LCK6108EV",
+            "LCK6120EVG",
+            "LCK6127HGN"
+          ]
+        },
+        {
+          "id": 61,
+          "country": "Xitoy",
+          "brand": "Higer",
+          "models": [
+            "KLQ6129G",
+            "KLQ6109GE",
+            "KLQ6122B",
+            "KLQ6112",
+            "KLQ6125",
+            "KLQ6109GAEV",
+            "KLQ6129GAEV",
+            "KLQ6709"
+          ]
+        },
+        {
+          "id": 62,
+          "country": "Xitoy",
+          "brand": "Foton (AUV)",
+          "models": [
+            "BJ6123",
+            "BJ6105",
+            "BJ6123EVCA",
+            "BJ6851",
+            "AUV FCEV Bus",
+            "BJ6731",
+            "BJ6601"
+          ]
+        },
+        {
+          "id": 63,
+          "country": "Xitoy",
+          "brand": "Golden Dragon",
+          "models": [
+            "XML6125",
+            "XML6105",
+            "XML6127",
+            "XML6122",
+            "XML6125JEVL0",
+            "XML6601",
+            "XML6700"
+          ]
+        },
+        {
+          "id": 64,
+          "country": "Xitoy",
+          "brand": "Ankai",
+          "models": [
+            "HFF6120G",
+            "HFF6129G",
+            "HFF6120K",
+            "HFF6112",
+            "HFF6109G03EV",
+            "HFF6141GS-3"
+          ]
+        },
+        {
+          "id": 65,
+          "country": "Xitoy",
+          "brand": "Sunlong",
+          "models": [
+            "SLK6129",
+            "SLK6105",
+            "SLK6128",
+            "SLK6122",
+            "SLK6109USBEV",
+            "SLK6125GN"
+          ]
+        },
+        {
+          "id": 66,
+          "country": "Janubiy Koreya",
+          "brand": "Kia",
+          "models": [
+            "Granbird",
+            "Granbird Silkroad"
+          ]
+        },
+        {
+          "id": 67,
+          "country": "Janubiy Koreya",
+          "brand": "Edison Motors",
+          "models": [
+            "Smart 110",
+            "Fibird"
+          ]
+        },
+        {
+          "id": 68,
+          "country": "Yaponiya",
+          "brand": "Toyota (Hino sub)",
+          "models": [
+            "Coaster",
+            "Coaster EV"
+          ]
+        },
+        {
+          "id": 69,
+          "country": "Hindiston",
+          "brand": "Eicher",
+          "models": [
+            "Skyline",
+            "Skyline Pro",
+            "Skyline Pro 3008",
+            "Skyline Pro 3012",
+            "10.75E",
+            "10.50E Star"
+          ]
+        },
+        {
+          "id": 70,
+          "country": "Hindiston",
+          "brand": "Olectra-BYD",
+          "models": [
+            "C9",
+            "K7",
+            "K6"
+          ]
+        },
+        {
+          "id": 71,
+          "country": "Rossiya",
+          "brand": "KamAZ (NefAZ)",
+          "models": [
+            "NefAZ-5299",
+            "NefAZ-52999",
+            "KamAZ-6282",
+            "KamAZ-6282 elektrobus"
+          ]
+        },
+        {
+          "id": 72,
+          "country": "Rossiya",
+          "brand": "Volgabus",
+          "models": [
+            "CityRhythm 12",
+            "CityRhythm 18",
+            "Sitiger-12E",
+            "Marinel"
+          ]
+        },
+        {
+          "id": 73,
+          "country": "Ukraina",
+          "brand": "Bogdan",
+          "models": [
+            "A092",
+            "A144",
+            "A701",
+            "T901",
+            "A069"
+          ]
+        },
+        {
+          "id": 74,
+          "country": "Ukraina",
+          "brand": "ZAZ (Avtobus)",
+          "models": [
+            "A10",
+            "A11",
+            "A181"
+          ]
+        },
+        {
+          "id": 75,
+          "country": "Ukraina",
+          "brand": "Electron",
+          "models": [
+            "T19",
+            "A185",
+            "T5L64"
+          ]
+        },
+        {
+          "id": 76,
+          "country": "Misr",
+          "brand": "MCV",
+          "models": [
+            "C120",
+            "C140",
+            "MCV 600",
+            "MCV 400",
+            "DD130",
+            "S140",
+            "S120"
+          ]
+        },
+        {
+          "id": 77,
+          "country": "Avstraliya",
+          "brand": "BCI (Bus & Coach International)",
+          "models": [
+            "Citirider",
+            "Classmaster",
+            "Classmaster 57",
+            "Classmaster School"
+          ]
+        },
+        {
+          "id": 78,
+          "country": "Avstraliya",
+          "brand": "Bustech",
+          "models": [
+            "VST",
+            "XDi",
+            "CDi",
+            "Articulated",
+            "H2 Series"
+          ]
+        },
+        {
+          "id": 79,
+          "country": "Janubiy Afrika",
+          "brand": "MAN SA",
+          "models": [
+            "Lion's Explorer",
+            "A25",
+            "Lion's Coach SA"
+          ]
+        },
+        {
+          "id": 80,
+          "country": "Janubiy Afrika",
+          "brand": "Busmark",
+          "models": [
+            "Busmark 2000"
+          ]
+        },
+        {
+          "id": 81,
+          "country": "Belgiya",
+          "brand": "Van Hool",
+          "models": [
+            "TX",
+            "TDX Astromega",
+            "CX",
+            "A308",
+            "A330",
+            "A360",
+            "AGG300",
+            "A330 Fuel Cell",
+            "Exqui.City",
+            "APX"
+          ]
+        },
+        {
+          "id": 82,
+          "country": "O'zbekiston",
+          "brand": "SamAuto",
+          "models": [
+            "SAZ LE60"
+          ]
+        },
+        {
+          "id": 83,
+          "country": "O'zbekiston",
+          "brand": "Isuzu O'zbekiston",
+          "models": [
+            "SAZ NP37",
+            "SAZ HC40"
+          ]
+        }
+      ]
+    },
+    {
+      "auto_type_id": 4,
+      "category": "Maxsus texnika",
+      "description": "Ekskovatorlar, buldozerlar, kranlar, yuklagichlar, samosvallar va boshqalar",
+      "brands": [
+        {
+          "id": 1,
+          "country": "AQSh",
+          "brand": "Caterpillar (CAT)",
+          "types": [
+            "Ekskovatorlar: 320, 325, 330, 336, 349, 352, 390F",
+            "Buldozerlar: D3, D4, D5, D6, D7, D8, D9, D10, D11",
+            "Yuklagichlar: 950, 962, 966, 972, 980, 988, 992",
+            "Greyderlar: 120, 140, 160",
+            "Samosvallar: 773, 775, 785, 789, 793, 797F",
+            "Kompakt yuklagichlar: 226D, 236D, 272D",
+            "Telehandler: TH255, TH357, TH408"
+          ],
+          "models": [
+            "320",
+            "325",
+            "330",
+            "336",
+            "349",
+            "352",
+            "390F",
+            "D5",
+            "D6",
+            "D7",
+            "D8",
+            "D9",
+            "D10",
+            "D11",
+            "950",
+            "966",
+            "980",
+            "992",
+            "140",
+            "797F",
+            "226D",
+            "TH357",
+            "TH408"
+          ]
+        },
+        {
+          "id": 2,
+          "country": "AQSh",
+          "brand": "John Deere",
+          "types": [
+            "Ekskovatorlar: 135G, 210G, 245G, 345G, 470G, 870G",
+            "Buldozerlar: 450, 550, 650, 700, 750, 850, 1050",
+            "Yuklagichlar: 444, 524, 544, 624, 644, 724, 744, 844",
+            "Greyderlar: 622, 670, 672, 770, 772, 870",
+            "Skid Steer: 312GR, 314G, 316GR, 318G, 332G"
+          ],
+          "models": [
+            "135G",
+            "210G",
+            "345G",
+            "870G",
+            "650",
+            "750",
+            "1050",
+            "544",
+            "644",
+            "844",
+            "770",
+            "870",
+            "318G",
+            "332G"
+          ]
+        },
+        {
+          "id": 3,
+          "country": "AQSh",
+          "brand": "Bobcat",
+          "types": [
+            "Skid Steer: S450, S510, S550, S590, S650, S740, S770, S850",
+            "Kompakt ekskovator: E10, E20, E26, E32, E35, E42, E50, E60, E85, E145",
+            "Telehandler: TL30.60, TL35.70, V519, V723"
+          ],
+          "models": [
+            "S450",
+            "S550",
+            "S650",
+            "S770",
+            "S850",
+            "E20",
+            "E35",
+            "E60",
+            "E85",
+            "E145",
+            "TL35.70",
+            "V723"
+          ]
+        },
+        {
+          "id": 4,
+          "country": "Yaponiya",
+          "brand": "Komatsu",
+          "types": [
+            "Ekskovatorlar: PC78, PC130, PC200, PC210, PC300, PC360, PC490, PC650, PC800, PC1250, PC2000",
+            "Buldozerlar: D21, D31, D37, D51, D61, D65, D85, D155, D275, D375, D475",
+            "Yuklagichlar: WA100, WA200, WA320, WA380, WA470, WA500, WA600, WA900",
+            "Samosvallar: HD325, HD405, HD785, 830E, 860E, 930E, 960E"
+          ],
+          "models": [
+            "PC200",
+            "PC210",
+            "PC300",
+            "PC490",
+            "PC800",
+            "PC2000",
+            "D65",
+            "D155",
+            "D475",
+            "WA380",
+            "WA500",
+            "WA900",
+            "HD785",
+            "930E",
+            "960E"
+          ]
+        },
+        {
+          "id": 5,
+          "country": "Yaponiya",
+          "brand": "Hitachi",
+          "types": [
+            "Ekskovatorlar: ZX75, ZX130, ZX200, ZX225, ZX300, ZX350, ZX490, ZX670, ZX890",
+            "Yuklagichlar: ZW80, ZW140, ZW180, ZW220, ZW310, ZW370",
+            "Samosvallar: EH1100, EH3500, EH4000, EH5000"
+          ],
+          "models": [
+            "ZX130",
+            "ZX200",
+            "ZX300",
+            "ZX490",
+            "ZX670",
+            "ZX890",
+            "ZW220",
+            "ZW370",
+            "EH3500",
+            "EH5000"
+          ]
+        },
+        {
+          "id": 6,
+          "country": "Yaponiya",
+          "brand": "Kobelco",
+          "types": [
+            "Ekskovatorlar: SK55, SK75, SK140, SK210, SK260, SK350, SK500, SK850",
+            "Mini: SK17, SK25, SK30, SK35, SK45",
+            "Kranlar: CK850, CK1000, CK1600, CK2750, SL6000"
+          ],
+          "models": [
+            "SK75",
+            "SK140",
+            "SK210",
+            "SK350",
+            "SK500",
+            "SK850",
+            "SK25",
+            "SK35",
+            "CK1000",
+            "CK1600",
+            "SL6000"
+          ]
+        },
+        {
+          "id": 7,
+          "country": "Yaponiya",
+          "brand": "Tadano",
+          "types": [
+            "Avto kranlar: GR-150, GR-250, GR-500, GR-800, GR-1000, GR-1200, GR-1600",
+            "Gusenicha kranlar: GTC-600, GTC-800, GTC-1500, GTC-1800"
+          ],
+          "models": [
+            "GR-150",
+            "GR-250",
+            "GR-500",
+            "GR-800",
+            "GR-1000",
+            "GR-1200",
+            "GR-1600",
+            "GTC-600",
+            "GTC-1500",
+            "GTC-1800"
+          ]
+        },
+        {
+          "id": 8,
+          "country": "Germaniya",
+          "brand": "Liebherr",
+          "types": [
+            "Ekskovatorlar: R914, R920, R930, R938, R945, R960, R970, R9100, R9200, R9400, R9800",
+            "Kranlar: LTM 1030, LTM 1060, LTM 1100, LTM 1160, LTM 1230, LTM 1300, LTM 1450, LTM 1750, LTM 11200",
+            "Buldozerlar: PR716, PR726, PR736, PR756, PR776",
+            "Samosvallar: T236, T264, T274, T284"
+          ],
+          "models": [
+            "R920",
+            "R938",
+            "R960",
+            "R9200",
+            "R9400",
+            "R9800",
+            "LTM 1060",
+            "LTM 1100",
+            "LTM 1300",
+            "LTM 1750",
+            "LTM 11200",
+            "PR736",
+            "PR776",
+            "T264",
+            "T284"
+          ]
+        },
+        {
+          "id": 9,
+          "country": "Germaniya",
+          "brand": "Wirtgen Group",
+          "types": [
+            "Yo'l frezalari: W100, W150, W200, W210, W220",
+            "Asfalt yotqizgichlar: SUPER 1900, SUPER 2100, SUPER 3000",
+            "Yo'l rulonlari: HD+90, HD+110, HD+130 (Hamm)"
+          ],
+          "models": [
+            "W100",
+            "W150",
+            "W200",
+            "W220",
+            "SUPER 1900",
+            "SUPER 2100",
+            "SUPER 3000",
+            "HD+90",
+            "HD+130"
+          ]
+        },
+        {
+          "id": 10,
+          "country": "Shvetsiya",
+          "brand": "Volvo CE",
+          "types": [
+            "Ekskovatorlar: EC140, EC160, EC200, EC220, EC250, EC300, EC350, EC480, EC750, EC950",
+            "Yuklagichlar: L60, L70, L90, L110, L120, L150, L180, L220, L260, L350",
+            "Samosvallar: A25G, A30G, A35G, A40G, A45G, A60H"
+          ],
+          "models": [
+            "EC200",
+            "EC220",
+            "EC300",
+            "EC480",
+            "EC750",
+            "EC950",
+            "L90",
+            "L120",
+            "L180",
+            "L260",
+            "L350",
+            "A30G",
+            "A40G",
+            "A45G",
+            "A60H"
+          ]
+        },
+        {
+          "id": 11,
+          "country": "Buyuk Britaniya",
+          "brand": "JCB",
+          "types": [
+            "Backhoe: 3CX, 4CX, 5CX",
+            "Ekskovatorlar: JS131, JS160, JS200, JS220, JS300, JS330, JS370",
+            "Yuklagichlar: 406, 409, 411, 419, 427, 437, 457",
+            "Telehandler: 525-60, 530-70, 535-95, 540-140, 540-170, 540-200"
+          ],
+          "models": [
+            "3CX",
+            "4CX",
+            "5CX",
+            "JS160",
+            "JS200",
+            "JS220",
+            "JS300",
+            "JS370",
+            "427",
+            "457",
+            "530-70",
+            "535-95",
+            "540-200"
+          ]
+        },
+        {
+          "id": 12,
+          "country": "Xitoy",
+          "brand": "XCMG",
+          "types": [
+            "Kranlar: QY25K, QY50K, QY70K, QY100K, QAY130, QAY200, QAY260, QAY500, QAY650, QAY1200, XCA1600",
+            "Ekskovatorlar: XE60, XE135, XE150, XE210, XE270, XE370, XE490, XE700, XE950",
+            "Yuklagichlar: LW300, LW500, LW600, LW800, LW1200",
+            "Greyderlar: GR135, GR165, GR180, GR215"
+          ],
+          "models": [
+            "QY50K",
+            "QY100K",
+            "QAY200",
+            "QAY500",
+            "XCA1600",
+            "XE210",
+            "XE370",
+            "XE490",
+            "XE950",
+            "LW500",
+            "LW800",
+            "GR165",
+            "GR215"
+          ]
+        },
+        {
+          "id": 13,
+          "country": "Xitoy",
+          "brand": "Sany",
+          "types": [
+            "Ekskovatorlar: SY55, SY75, SY135, SY215, SY265, SY365, SY485, SY750, SY870, SY980",
+            "Kranlar: STC250, STC500, STC750, STC1000, SAC1800, SAC2200, SAC3000, SCC8000",
+            "Beton nasoslari: SYM5230, SYM5280, SYM5380, SYM5525"
+          ],
+          "models": [
+            "SY135",
+            "SY215",
+            "SY365",
+            "SY485",
+            "SY750",
+            "SY980",
+            "STC500",
+            "STC1000",
+            "SAC1800",
+            "SAC3000",
+            "SCC8000",
+            "SYM5280",
+            "SYM5525"
+          ]
+        },
+        {
+          "id": 14,
+          "country": "Xitoy",
+          "brand": "Zoomlion",
+          "types": [
+            "Kranlar: ZTC250, ZTC350, ZTC550, ZTC800, ZTC1300, ZTC2600",
+            "Kran minoralari: T600, T7020, T7525, T8030",
+            "Beton nasoslari: 38X-5RZ, 47X-5RZ, 52X-6RZ, 56X-6RZ, 63X-7RZ",
+            "Ekskovatorlar: ZE60, ZE135, ZE210, ZE360, ZE480"
+          ],
+          "models": [
+            "ZTC550",
+            "ZTC1300",
+            "ZTC2600",
+            "T7020",
+            "T8030",
+            "52X-6RZ",
+            "63X-7RZ",
+            "ZE210",
+            "ZE360",
+            "ZE480"
+          ]
+        },
+        {
+          "id": 15,
+          "country": "Janubiy Koreya",
+          "brand": "Hyundai CE (HD Hyundai)",
+          "types": [
+            "Ekskovatorlar: HX55, HX85, HX130, HX145, HX160, HX220, HX235, HX300, HX380, HX480, HX520, HX900",
+            "Yuklagichlar: HL730, HL740, HL757, HL760, HL770, HL780, HL960, HL975, HL980"
+          ],
+          "models": [
+            "HX130",
+            "HX220",
+            "HX300",
+            "HX380",
+            "HX480",
+            "HX900",
+            "HL757",
+            "HL770",
+            "HL780",
+            "HL960",
+            "HL980"
+          ]
+        },
+        {
+          "id": 16,
+          "country": "Janubiy Koreya",
+          "brand": "Doosan",
+          "types": [
+            "Ekskovatorlar: DX140, DX160, DX225, DX255, DX300, DX340, DX380, DX420, DX490, DX530, DX800",
+            "Yuklagichlar: DL200, DL250, DL300, DL350, DL420, DL450, DL550",
+            "Samosvallar: DA30, DA40, DA45"
+          ],
+          "models": [
+            "DX160",
+            "DX225",
+            "DX300",
+            "DX420",
+            "DX490",
+            "DX800",
+            "DL300",
+            "DL420",
+            "DL550",
+            "DA30",
+            "DA40",
+            "DA45"
+          ]
+        },
+        {
+          "id": 17,
+          "country": "Belorusiya",
+          "brand": "BelAZ",
+          "types": [
+            "Karerli samosvallar: BelAZ-7513 (130t), BelAZ-7530 (220t), BelAZ-75710 (450t — dunyo rekordi), BelAZ-7555 (55t), BelAZ-7540 (30t)"
+          ],
+          "models": [
+            "BelAZ-7513",
+            "BelAZ-7530",
+            "BelAZ-75710",
+            "BelAZ-7555",
+            "BelAZ-7540"
+          ]
+        },
+        {
+          "id": 18,
+          "country": "Turkiya",
+          "brand": "Hidromek",
+          "types": [
+            "Ekskovatorlar: HMK62SS, HMK102B, HMK145, HMK220, HMK300, HMK370, HMK490, HMK600",
+            "Backhoe: HMK102B, HMK102S",
+            "Yuklagichlar: HMK620, HMK635, HMK640"
+          ],
+          "models": [
+            "HMK102B",
+            "HMK145",
+            "HMK220",
+            "HMK300",
+            "HMK370",
+            "HMK490",
+            "HMK600",
+            "HMK620",
+            "HMK640"
+          ]
+        },
+        {
+          "id": 19,
+          "country": "Avstriya",
+          "brand": "Palfinger",
+          "types": [
+            "Yuk ko'targich kranlar: PK18, PK23, PK33, PK40, PK53, PK65, PK78, PK88, PK92, PK135, PK165, PK200",
+            "Platformalar: P200A, P300A, P370KS"
+          ],
+          "models": [
+            "PK23",
+            "PK33",
+            "PK53",
+            "PK78",
+            "PK92",
+            "PK135",
+            "PK165",
+            "PK200",
+            "P300A",
+            "P370KS"
+          ]
+        },
+        {
+          "id": 20,
+          "country": "Italiya",
+          "brand": "Fassi",
+          "types": [
+            "Yuk ko'targich kranlar: F32A, F50A, F80A, F110A, F155A, F195A, F245A, F315A, F455A, F660A, F820A, F990A, F1150A, F1300A, F1950A"
+          ],
+          "models": [
+            "F50A",
+            "F80A",
+            "F155A",
+            "F245A",
+            "F455A",
+            "F660A",
+            "F820A",
+            "F1150A",
+            "F1950A"
+          ]
+        },
+        {
+          "id": 21,
+          "country": "AQSh",
+          "brand": "Case (CNH)",
+          "models": [
+            "CX145D",
+            "CX210D",
+            "CX250D",
+            "CX350D",
+            "CX490D",
+            "CX750D",
+            "650M",
+            "750M",
+            "850M",
+            "1150M",
+            "1650M",
+            "2050M",
+            "521G",
+            "621G",
+            "721G",
+            "821G",
+            "921G",
+            "580SN",
+            "590SN",
+            "695SN"
+          ]
+        },
+        {
+          "id": 22,
+          "country": "AQSh",
+          "brand": "Terex",
+          "models": [
+            "RT35",
+            "RT45",
+            "RT100",
+            "RT130",
+            "RT230",
+            "RT345",
+            "TA250",
+            "TA300",
+            "TA400",
+            "Crossover 4500",
+            "Explorer 5500"
+          ]
+        },
+        {
+          "id": 23,
+          "country": "AQSh",
+          "brand": "Manitowoc",
+          "models": [
+            "MLC150",
+            "MLC300",
+            "MLC650",
+            "16000",
+            "18000",
+            "31000",
+            "999"
+          ]
+        },
+        {
+          "id": 24,
+          "country": "AQSh",
+          "brand": "Link-Belt",
+          "models": [
+            "TCC-500",
+            "TCC-750",
+            "TCC-1100",
+            "TCC-2500",
+            "238",
+            "248",
+            "298",
+            "348",
+            "HTC-86110",
+            "HTC-8690"
+          ]
+        },
+        {
+          "id": 25,
+          "country": "AQSh",
+          "brand": "Vermeer",
+          "models": [
+            "D10x15",
+            "D23x30",
+            "D40x55",
+            "D100x140",
+            "D130x150",
+            "BC700XL",
+            "BC900XL",
+            "BC1000XL",
+            "RTX250",
+            "RTX450",
+            "RTX550"
+          ]
+        },
+        {
+          "id": 26,
+          "country": "AQSh",
+          "brand": "Gradall",
+          "models": [
+            "XL3100",
+            "XL4100",
+            "XL5200",
+            "XL7320"
+          ]
+        },
+        {
+          "id": 27,
+          "country": "Yaponiya",
+          "brand": "Kubota",
+          "models": [
+            "KX018",
+            "KX033",
+            "KX040",
+            "KX057",
+            "U27",
+            "U35",
+            "U55",
+            "SVL65",
+            "SVL75",
+            "SVL97"
+          ]
+        },
+        {
+          "id": 28,
+          "country": "Yaponiya",
+          "brand": "Sumitomo",
+          "models": [
+            "SH75X",
+            "SH130",
+            "SH210",
+            "SH235",
+            "SH350",
+            "SH380",
+            "SH480",
+            "SH700"
+          ]
+        },
+        {
+          "id": 29,
+          "country": "Yaponiya",
+          "brand": "IHI",
+          "models": [
+            "9VX3",
+            "12VX3",
+            "15VX3",
+            "17VXE",
+            "20VX3",
+            "25VX3",
+            "28N",
+            "35N",
+            "80VX"
+          ]
+        },
+        {
+          "id": 30,
+          "country": "Germaniya",
+          "brand": "Bomag",
+          "models": [
+            "BW177",
+            "BW213",
+            "BW226",
+            "BW120",
+            "BW138",
+            "BW161",
+            "BW174",
+            "BW190",
+            "BMP8500",
+            "BC473",
+            "BC573",
+            "BC773"
+          ]
+        },
+        {
+          "id": 31,
+          "country": "Germaniya",
+          "brand": "Putzmeister",
+          "models": [
+            "BSF 28",
+            "BSF 36",
+            "BSF 42",
+            "BSF 47",
+            "BSF 52",
+            "BSF 56",
+            "BSF 63",
+            "BSF 70",
+            "BSA 1005",
+            "BSA 2109",
+            "BSA 14000"
+          ]
+        },
+        {
+          "id": 32,
+          "country": "Germaniya",
+          "brand": "Wacker Neuson",
+          "models": [
+            "EZ17",
+            "EZ26",
+            "EZ36",
+            "EZ50",
+            "ET16",
+            "ET20",
+            "ET35",
+            "ET90",
+            "WL20",
+            "WL28",
+            "WL34",
+            "WL52",
+            "WL60"
+          ]
+        },
+        {
+          "id": 33,
+          "country": "Shvetsiya",
+          "brand": "Epiroc (Atlas Copco)",
+          "models": [
+            "SmartROC T35",
+            "SmartROC T40",
+            "SmartROC T45",
+            "D50",
+            "D55",
+            "D60",
+            "D65",
+            "Boomer S2",
+            "Boomer M2",
+            "Boomer XE3C",
+            "HB2000",
+            "HB3000",
+            "HB4100",
+            "HB7000",
+            "HB10000"
+          ]
+        },
+        {
+          "id": 34,
+          "country": "Shvetsiya",
+          "brand": "Sandvik",
+          "models": [
+            "DR410i",
+            "DR412i",
+            "Leopard DI650",
+            "CJ411",
+            "CJ613",
+            "CH430",
+            "CH660",
+            "CH860",
+            "CH870",
+            "DD321",
+            "DD422",
+            "DT821",
+            "LH410",
+            "LH514",
+            "LH517",
+            "LH621",
+            "TH430",
+            "TH545",
+            "TH663"
+          ]
+        },
+        {
+          "id": 35,
+          "country": "Shvetsiya",
+          "brand": "Husqvarna",
+          "models": [
+            "FS5000",
+            "FS7000",
+            "DM280",
+            "DM340",
+            "DM650",
+            "PG820",
+            "PG680",
+            "PG530"
+          ]
+        },
+        {
+          "id": 36,
+          "country": "Finlandiya",
+          "brand": "Metso",
+          "models": [
+            "C80",
+            "C96",
+            "C100",
+            "C110",
+            "C120",
+            "C130",
+            "C150",
+            "C200",
+            "HP100",
+            "HP200",
+            "HP300",
+            "HP400",
+            "HP500",
+            "HP900",
+            "LT106",
+            "LT120",
+            "LT200",
+            "LT300"
+          ]
+        },
+        {
+          "id": 37,
+          "country": "Finlandiya",
+          "brand": "Ponsse",
+          "models": [
+            "Ergo",
+            "Bear",
+            "Scorpion",
+            "Fox",
+            "Elk",
+            "Buffalo",
+            "Elephant",
+            "Bison"
+          ]
+        },
+        {
+          "id": 38,
+          "country": "Italiya",
+          "brand": "Manitou",
+          "models": [
+            "MT625",
+            "MT732",
+            "MT932",
+            "MT1030",
+            "MT1135",
+            "MT1335",
+            "MT1440",
+            "MT1840",
+            "100VJR",
+            "150AETJC",
+            "180ATJ",
+            "200ATJ",
+            "260TJ"
+          ]
+        },
+        {
+          "id": 39,
+          "country": "Italiya",
+          "brand": "CIFA",
+          "models": [
+            "K20",
+            "K25",
+            "K28",
+            "K33",
+            "K36",
+            "K40",
+            "K42",
+            "K47",
+            "K53",
+            "SL9",
+            "SL10",
+            "SL12",
+            "SL15"
+          ]
+        },
+        {
+          "id": 40,
+          "country": "Italiya",
+          "brand": "Merlo",
+          "models": [
+            "P25.6",
+            "P27.6",
+            "P32.6",
+            "P40.7",
+            "P40.13",
+            "P50.18",
+            "P60.10",
+            "Roto 40.16",
+            "Roto 50.10"
+          ]
+        },
+        {
+          "id": 41,
+          "country": "Buyuk Britaniya",
+          "brand": "Terex Finlay",
+          "models": [
+            "J-960",
+            "J-1160",
+            "J-1170",
+            "J-1175",
+            "J-1480",
+            "683",
+            "693",
+            "873",
+            "883",
+            "893",
+            "C-1540",
+            "C-1545",
+            "C-1554"
+          ]
+        },
+        {
+          "id": 42,
+          "country": "Fransiya",
+          "brand": "Haulotte",
+          "models": [
+            "HA16",
+            "HA20",
+            "HA26",
+            "HA32",
+            "HA41",
+            "Compact 8",
+            "Compact 10",
+            "Compact 12",
+            "Compact 14",
+            "HT23",
+            "HT28",
+            "HT43",
+            "HT67",
+            "HT85"
+          ]
+        },
+        {
+          "id": 43,
+          "country": "Fransiya",
+          "brand": "Mecalac",
+          "models": [
+            "10MCR",
+            "12MTX",
+            "15MC",
+            "AS700",
+            "AS900",
+            "AS1600",
+            "6MDX",
+            "9MDX"
+          ]
+        },
+        {
+          "id": 44,
+          "country": "Xitoy",
+          "brand": "LiuGong",
+          "models": [
+            "906E",
+            "908E",
+            "915E",
+            "920E",
+            "925E",
+            "936E",
+            "950E",
+            "835",
+            "848",
+            "856",
+            "862",
+            "870",
+            "877",
+            "890",
+            "B160",
+            "B161",
+            "B230",
+            "414",
+            "418",
+            "422",
+            "766A",
+            "777A"
+          ]
+        },
+        {
+          "id": 45,
+          "country": "Xitoy",
+          "brand": "Shantui",
+          "models": [
+            "SD08",
+            "SD13",
+            "SD16",
+            "SD22",
+            "SD23",
+            "SD32",
+            "SD42",
+            "SE60",
+            "SE130",
+            "SE210",
+            "SE245",
+            "SE305",
+            "SE370",
+            "SL30W",
+            "SL50W",
+            "SL60W",
+            "SR12",
+            "SR14",
+            "SR18",
+            "SR20",
+            "SR22",
+            "SR26"
+          ]
+        },
+        {
+          "id": 46,
+          "country": "Xitoy",
+          "brand": "Lonking",
+          "models": [
+            "CDM6065",
+            "CDM6150",
+            "CDM6205",
+            "CDM6225",
+            "CDM6235",
+            "CDM6365",
+            "CDM835",
+            "CDM855",
+            "CDM856",
+            "CDM1102",
+            "CDM1202",
+            "FD30",
+            "FD50",
+            "FD100"
+          ]
+        },
+        {
+          "id": 47,
+          "country": "Xitoy",
+          "brand": "Sunward",
+          "models": [
+            "SWE08",
+            "SWE17",
+            "SWE25",
+            "SWE35",
+            "SWE50",
+            "SWE150",
+            "SWE210",
+            "SWE230",
+            "SWE360",
+            "SWE470",
+            "SWDM160",
+            "SWDM200",
+            "SWDM260",
+            "SWTC16",
+            "SWTC25",
+            "SWTC55"
+          ]
+        },
+        {
+          "id": 48,
+          "country": "Xitoy",
+          "brand": "SDLG (Volvo sub)",
+          "models": [
+            "L918F",
+            "L938F",
+            "L953F",
+            "L956F",
+            "L958F",
+            "L968F",
+            "E635F",
+            "E645F",
+            "E660F",
+            "E680F",
+            "G9138F",
+            "G9165F",
+            "G9190F"
+          ]
+        },
+        {
+          "id": 49,
+          "country": "Hindiston",
+          "brand": "BEML",
+          "models": [
+            "BD50",
+            "BD80",
+            "BD155",
+            "BD355",
+            "BE220",
+            "BE480",
+            "BH60E",
+            "BH100",
+            "BH150E",
+            "BS315",
+            "BS470"
+          ]
+        },
+        {
+          "id": 50,
+          "country": "Hindiston",
+          "brand": "Tata Hitachi",
+          "models": [
+            "EX70",
+            "EX110",
+            "EX130",
+            "EX200",
+            "EX210",
+            "ZAXIS 120",
+            "ZAXIS 220",
+            "ZAXIS 370",
+            "ZAXIS 30",
+            "ZAXIS 50",
+            "ZW220",
+            "ZW310"
+          ]
+        },
+        {
+          "id": 51,
+          "country": "Hindiston",
+          "brand": "ACE (Action Construction)",
+          "models": [
+            "FX150",
+            "FX230",
+            "AX124",
+            "AX174",
+            "AX130"
+          ]
+        },
+        {
+          "id": 52,
+          "country": "Hindiston",
+          "brand": "Escorts Kubota",
+          "models": [
+            "TRX seriyasi",
+            "Digmax II",
+            "Loadmax",
+            "EC Series"
+          ]
+        },
+        {
+          "id": 53,
+          "country": "Rossiya",
+          "brand": "ChTZ (Chelyabinsk)",
+          "models": [
+            "B10",
+            "B11",
+            "B12",
+            "B13",
+            "B14",
+            "T-170",
+            "T-130",
+            "DET-250"
+          ]
+        },
+        {
+          "id": 54,
+          "country": "Rossiya",
+          "brand": "UralMash",
+          "models": [
+            "EKG-5",
+            "EKG-8",
+            "EKG-10",
+            "EKG-12",
+            "EKG-15",
+            "EKG-18",
+            "EKG-20",
+            "EKG-35"
+          ]
+        },
+        {
+          "id": 55,
+          "country": "Rossiya",
+          "brand": "Ivanovets (Ivanovskiy)",
+          "models": [
+            "KS-35714",
+            "KS-45717",
+            "KS-54712",
+            "KS-55717",
+            "KS-65740"
+          ]
+        },
+        {
+          "id": 56,
+          "country": "Rossiya",
+          "brand": "Galichanin",
+          "models": [
+            "KS-55713",
+            "KS-55729",
+            "KS-65721",
+            "KS-75721",
+            "KS-84713"
+          ]
+        },
+        {
+          "id": 57,
+          "country": "Rossiya",
+          "brand": "DST-Ural",
+          "models": [
+            "TD-14M",
+            "TD-15M",
+            "TD-20M",
+            "TD-25M"
+          ]
+        },
+        {
+          "id": 58,
+          "country": "Belorusiya",
+          "brand": "Amkodor",
+          "models": [
+            "333",
+            "342",
+            "352",
+            "371",
+            "GD-220",
+            "GD-240",
+            "702",
+            "703",
+            "2551",
+            "2661"
+          ]
+        },
+        {
+          "id": 59,
+          "country": "Turkiya",
+          "brand": "Sanko (Cukurova)",
+          "models": [
+            "795",
+            "822",
+            "827",
+            "836",
+            "874",
+            "880"
+          ]
+        },
+        {
+          "id": 60,
+          "country": "Daniya",
+          "brand": "Hydrema",
+          "models": [
+            "707G",
+            "912G",
+            "922G",
+            "906F",
+            "908F",
+            "926F"
+          ]
+        },
+        {
+          "id": 61,
+          "country": "Kanada",
+          "brand": "Tigercat",
+          "models": [
+            "H845E",
+            "H855E",
+            "LS855E",
+            "602",
+            "610E",
+            "625E",
+            "632E",
+            "635E",
+            "1055B",
+            "1075B",
+            "1085B",
+            "718E",
+            "720E",
+            "724G",
+            "726E"
+          ]
+        },
+        {
+          "id": 62,
+          "country": "Kanada",
+          "brand": "Brandt",
+          "models": [
+            "CB4047",
+            "CB5060"
+          ]
+        },
+        {
+          "id": 63,
+          "country": "Braziliya",
+          "brand": "Randon",
+          "models": [
+            "RK420B",
+            "RK430B"
+          ]
+        },
+        {
+          "id": 64,
+          "country": "Niderlandiya",
+          "brand": "Boskalis/Royal IHC",
+          "models": [
+            "Cutter Suction Dredger",
+            "Trailing Hopper Dredger"
+          ]
+        },
+        {
+          "id": 65,
+          "country": "Ispaniya",
+          "brand": "Ausa",
+          "models": [
+            "D100AHG",
+            "D150AHG",
+            "D250AHG",
+            "D350AHG",
+            "D600APG",
+            "D1000APG",
+            "T204H",
+            "T235H",
+            "T275H",
+            "C11",
+            "C150H",
+            "C200H",
+            "C250H",
+            "C300H",
+            "C350H",
+            "C500H"
+          ]
+        },
+        {
+          "id": 66,
+          "country": "Polsha",
+          "brand": "Dressta",
+          "models": [
+            "TD-8",
+            "TD-9",
+            "TD-14",
+            "TD-15",
+            "TD-20",
+            "TD-25",
+            "TD-40",
+            "520",
+            "530",
+            "534",
+            "555",
+            "560"
+          ]
+        },
+        {
+          "id": 67,
+          "country": "O'zbekiston",
+          "brand": "O'zMashSanoat",
+          "models": [
+            "SDLG hamkorligi ekskovatorlari",
+            "LiuGong hamkorligi yuklagichlari",
+            "XCMG hamkorligi texnikasi"
+          ]
+        }
+      ]
+    },
+    {
+      "auto_type_id": 6,
+      "category": "Tirkamalar va yarim tirkamalar",
+      "description": "Tentli, refrijerator, samosval, sisterna, platforma, konteyner tashuvchi va maxsus tirkamalar",
+      "brands": [
+        {
+          "id": 1,
+          "country": "Germaniya",
+          "brand": "Schmitz Cargobull",
+          "types": [
+            "Tentli: S.CS, S.CS Universal, S.CS Mega",
+            "Refrijerator: S.KO Cool, S.KO Cool Smart",
+            "Konteyner tashuvchi: S.CF Flex",
+            "Samosval: S.KI, S.KI HVAC",
+            "Platforma: S.PR"
+          ],
+          "models": [
+            "S.CS",
+            "S.CS Universal",
+            "S.CS Mega",
+            "S.KO Cool",
+            "S.CF Flex",
+            "S.KI",
+            "S.PR"
+          ]
+        },
+        {
+          "id": 2,
+          "country": "Germaniya",
+          "brand": "Kässbohrer",
+          "types": [
+            "Tentli: K.SCS, K.SCS X+, K.SCS XS",
+            "Refrijerator: K.SRI, K.SRI X",
+            "Platforma: K.SPA, K.SPH",
+            "Samosval: K.SKA, K.SKS",
+            "Sisterna: K.STL, K.STN",
+            "Konteyner: K.SHG, K.SHF",
+            "Yog'och: K.SHL, K.STW"
+          ],
+          "models": [
+            "K.SCS",
+            "K.SCS X+",
+            "K.SRI",
+            "K.SPA",
+            "K.SKA",
+            "K.STL",
+            "K.SHG",
+            "K.SHL"
+          ]
+        },
+        {
+          "id": 3,
+          "country": "Germaniya",
+          "brand": "Krone",
+          "types": [
+            "Tentli: Profi Liner, Mega Liner",
+            "Refrijerator: Cool Liner",
+            "Konteyner: Box Liner",
+            "Platforma: Profi Liner Multi",
+            "Samosval: Krone DW",
+            "Maxsus: Coil Liner (po'lat rulon)"
+          ],
+          "models": [
+            "Profi Liner",
+            "Mega Liner",
+            "Cool Liner",
+            "Box Liner",
+            "Krone DW",
+            "Coil Liner"
+          ]
+        },
+        {
+          "id": 4,
+          "country": "Germaniya",
+          "brand": "Goldhofer",
+          "types": [
+            "Og'ir yuk: STZ-VL, THP/SL, ADDRIVE",
+            "Modullari: PST/SL, PST/E",
+            "Aeroport: AST-1, AST-2, Sherpa",
+            "Maxsus: FTV (yel turbinalari tashish)"
+          ],
+          "models": [
+            "STZ-VL",
+            "THP/SL",
+            "ADDRIVE",
+            "PST/SL",
+            "AST-1",
+            "AST-2",
+            "Sherpa",
+            "FTV"
+          ]
+        },
+        {
+          "id": 5,
+          "country": "Niderlandiya",
+          "brand": "Nooteboom",
+          "types": [
+            "Pastki: OSDS, MCOS, MCO-PX",
+            "Teleskopik: MCOS-T, OSD",
+            "Og'ir yuk: MCO-PX (130t+)",
+            "Modular: MultiMAX Fario, Super Wing Carrier"
+          ],
+          "models": [
+            "OSDS",
+            "MCOS",
+            "MCO-PX",
+            "MCOS-T",
+            "MultiMAX Fario",
+            "Super Wing Carrier"
+          ]
+        },
+        {
+          "id": 6,
+          "country": "Belgiya",
+          "brand": "Faymonville",
+          "types": [
+            "Pastki: MultiMAX, MAX Trailer, MAX100",
+            "Teleskopik: VarioMAX",
+            "Og'ir yuk: CombiMAX (200t+)",
+            "Modular: TeleMAX",
+            "Maxsus: CargoMAX, WingMAX"
+          ],
+          "models": [
+            "MultiMAX",
+            "MAX100",
+            "VarioMAX",
+            "CombiMAX",
+            "TeleMAX",
+            "CargoMAX",
+            "WingMAX"
+          ]
+        },
+        {
+          "id": 7,
+          "country": "AQSh",
+          "brand": "Great Dane",
+          "types": [
+            "Refrijerator: Everest SS, Everest TL",
+            "Yopiq: Champion SE, Champion CL",
+            "Platforma: Freedom SE, Freedom XP, Freedom LT",
+            "Tentli: Sahara"
+          ],
+          "models": [
+            "Everest SS",
+            "Everest TL",
+            "Champion SE",
+            "Champion CL",
+            "Freedom SE",
+            "Freedom XP",
+            "Sahara"
+          ]
+        },
+        {
+          "id": 8,
+          "country": "AQSh",
+          "brand": "Wabash National",
+          "types": [
+            "Yopiq: DuraPlate",
+            "Refrijerator: ArcticLite",
+            "Platforma: Benson, FreightPro",
+            "Sisterna: Brenner, Walker, Beall",
+            "Maxsus: DuraPlate HD"
+          ],
+          "models": [
+            "DuraPlate",
+            "ArcticLite",
+            "Benson",
+            "FreightPro",
+            "Brenner",
+            "Walker",
+            "DuraPlate HD"
+          ]
+        },
+        {
+          "id": 9,
+          "country": "AQSh",
+          "brand": "Fontaine Trailer",
+          "types": [
+            "Platforma: Infinity, Revolution",
+            "Pastki: Magnitude, Stinger",
+            "Og'ir yuk: Traveling Axle, Renegade LXT"
+          ],
+          "models": [
+            "Infinity",
+            "Revolution",
+            "Magnitude",
+            "Stinger",
+            "Traveling Axle",
+            "Renegade LXT"
+          ]
+        },
+        {
+          "id": 10,
+          "country": "Xitoy",
+          "brand": "CIMC",
+          "types": [
+            "Konteyner: Skeletal (20/40/45ft)",
+            "Tentli: Curtainsider",
+            "Yopiq: Dry Van",
+            "Refrijerator: Reefer",
+            "Sisterna: yoqilg'i, kimyo, LNG, LPG",
+            "Samosval: Tipper",
+            "Platforma: Flatbed",
+            "Pastki: Lowbed",
+            "Maxsus: Car Carrier, Cement Mixer"
+          ],
+          "models": [
+            "Skeletal 20ft",
+            "Skeletal 40ft",
+            "Curtainsider",
+            "Dry Van",
+            "Reefer",
+            "LNG Tanker",
+            "LPG Tanker",
+            "Tipper",
+            "Flatbed",
+            "Lowbed",
+            "Car Carrier"
+          ]
+        },
+        {
+          "id": 11,
+          "country": "Turkiya",
+          "brand": "Tirsan",
+          "types": [
+            "Tentli: Perdeli Mega, Perdeli Maxima",
+            "Refrijerator: Frigo, Frigo Max",
+            "Konteyner: Intermodal",
+            "Samosval: Damper",
+            "Sisterna: Tanker",
+            "Platforma: Platform",
+            "Maxsus: Coil Carrier"
+          ],
+          "models": [
+            "Perdeli Mega",
+            "Perdeli Maxima",
+            "Frigo",
+            "Frigo Max",
+            "Intermodal",
+            "Damper",
+            "Tanker",
+            "Coil Carrier"
+          ]
+        },
+        {
+          "id": 12,
+          "country": "Polsha",
+          "brand": "Wielton",
+          "types": [
+            "Tentli: NS3, NS3 Mega",
+            "Samosval: NW3, NW3S",
+            "Platforma: PS3",
+            "Konteyner: PC3",
+            "Refrijerator: Cool",
+            "Sisterna: Tanker",
+            "Maxsus: Agro"
+          ],
+          "models": [
+            "NS3",
+            "NS3 Mega",
+            "NW3",
+            "NW3S",
+            "PS3",
+            "PC3",
+            "Cool",
+            "Agro"
+          ]
+        },
+        {
+          "id": 13,
+          "country": "Avstriya",
+          "brand": "Schwarzmüller",
+          "types": [
+            "Samosval: Tipping Semitrailer, 3-Axle Tipper",
+            "Tentli: Platform Semitrailer",
+            "Platforma: Flatbed",
+            "Sisterna: Silo, Fuel",
+            "Yog'och: Timber",
+            "Maxsus: Coil, Steel Carrier"
+          ],
+          "models": [
+            "Tipping Semitrailer",
+            "3-Axle Tipper",
+            "Flatbed",
+            "Silo",
+            "Timber",
+            "Steel Carrier"
+          ]
+        },
+        {
+          "id": 14,
+          "country": "Avstraliya",
+          "brand": "Vawdrey",
+          "types": [
+            "Tentli: Curtainsider",
+            "Yopiq: Dry Van",
+            "Refrijerator: Reefer",
+            "Platforma: Flat Top, Drop Deck",
+            "Maxsus: B-Double, Road Train, Super B-Double"
+          ],
+          "models": [
+            "Curtainsider",
+            "Dry Van",
+            "Reefer",
+            "Flat Top",
+            "Drop Deck",
+            "B-Double",
+            "Road Train"
+          ]
+        },
+        {
+          "id": 15,
+          "country": "Germaniya",
+          "brand": "Kogel",
+          "models": [
+            "Cargo",
+            "Cargo Coil",
+            "Cargo MEGA",
+            "Cool PurFerro",
+            "Port 45",
+            "Truxx",
+            "Multi"
+          ]
+        },
+        {
+          "id": 16,
+          "country": "Germaniya",
+          "brand": "Humbaur",
+          "models": [
+            "Steely",
+            "Startrailer",
+            "One Way",
+            "HTK",
+            "HBT",
+            "HT",
+            "HBP",
+            "Notos",
+            "Xanthos",
+            "HKT",
+            "HM"
+          ]
+        },
+        {
+          "id": 17,
+          "country": "Germaniya",
+          "brand": "Böckmann",
+          "models": [
+            "Champion",
+            "Comfort",
+            "Portax",
+            "TL",
+            "KT",
+            "KH",
+            "Cargo Go",
+            "MH",
+            "MKA"
+          ]
+        },
+        {
+          "id": 18,
+          "country": "Niderlandiya",
+          "brand": "Broshuis",
+          "models": [
+            "SL-45",
+            "SL-47",
+            "2CONNECT",
+            "MFLS",
+            "PL-Series"
+          ]
+        },
+        {
+          "id": 19,
+          "country": "Niderlandiya",
+          "brand": "Pacton",
+          "models": [
+            "Flex-XL",
+            "Flex-45",
+            "Flex CS",
+            "Flex FT",
+            "Flex TD"
+          ]
+        },
+        {
+          "id": 20,
+          "country": "Fransiya",
+          "brand": "Fruehauf",
+          "models": [
+            "Maxima Plus",
+            "Maxima Mega",
+            "FT1 Cool",
+            "HDB",
+            "FPAP",
+            "FPC"
+          ]
+        },
+        {
+          "id": 21,
+          "country": "Fransiya",
+          "brand": "Chereau",
+          "models": [
+            "FNA",
+            "Inogam",
+            "Reefer",
+            "Fridge Box",
+            "eReeferGreen"
+          ]
+        },
+        {
+          "id": 22,
+          "country": "Fransiya",
+          "brand": "Benalu",
+          "models": [
+            "BulkLiner",
+            "SideRunner",
+            "AgriRunner",
+            "PowderLiner",
+            "Optiliner",
+            "AgriLiner"
+          ]
+        },
+        {
+          "id": 23,
+          "country": "Italiya",
+          "brand": "Menci",
+          "models": [
+            "SA700R",
+            "SA800U",
+            "SA900R",
+            "SA1200TC"
+          ]
+        },
+        {
+          "id": 24,
+          "country": "Italiya",
+          "brand": "Acerbi (Viberti)",
+          "models": [
+            "yoqilg'i tashuvchi sisterna",
+            "kimyoviy suyuqlik tirkamasi",
+            "tentli tirkama",
+            "refrijerator tirkama"
+          ]
+        },
+        {
+          "id": 25,
+          "country": "Italiya",
+          "brand": "De Angelis",
+          "models": [
+            "3S8",
+            "4S6",
+            "3S5",
+            "2S2"
+          ]
+        },
+        {
+          "id": 26,
+          "country": "Buyuk Britaniya",
+          "brand": "Montracon",
+          "models": [
+            "Curtainside",
+            "Box Van",
+            "Flat",
+            "Skeletal",
+            "Fridge",
+            "Tipping",
+            "Timber"
+          ]
+        },
+        {
+          "id": 27,
+          "country": "Buyuk Britaniya",
+          "brand": "SDC Trailers",
+          "models": [
+            "Skeletal",
+            "Extendable",
+            "Curtainsider",
+            "Flatbed",
+            "Tipping",
+            "Refrigerated"
+          ]
+        },
+        {
+          "id": 28,
+          "country": "Buyuk Britaniya",
+          "brand": "Gray & Adams",
+          "models": [
+            "R-Series",
+            "G-Series",
+            "Insulated",
+            "Dry Freight",
+            "Double Deck"
+          ]
+        },
+        {
+          "id": 29,
+          "country": "Buyuk Britaniya",
+          "brand": "Lawrence David",
+          "models": [
+            "Curtainsider",
+            "Box Van",
+            "Double Deck",
+            "Beverage",
+            "Moving Floor"
+          ]
+        },
+        {
+          "id": 30,
+          "country": "Belgiya",
+          "brand": "Turbo's Hoet",
+          "models": [
+            "Skeletal",
+            "Sliding",
+            "Curtainsider",
+            "Flat",
+            "Reefer"
+          ]
+        },
+        {
+          "id": 31,
+          "country": "AQSh",
+          "brand": "Utility Trailer",
+          "models": [
+            "3000R",
+            "3000R Multi-Temp",
+            "VS2DC",
+            "VS2DX",
+            "4000D-X",
+            "Tautliner"
+          ]
+        },
+        {
+          "id": 32,
+          "country": "AQSh",
+          "brand": "Hyundai Translead",
+          "models": [
+            "HD",
+            "HV",
+            "HC",
+            "HT",
+            "HP",
+            "HC Chassis"
+          ]
+        },
+        {
+          "id": 33,
+          "country": "AQSh",
+          "brand": "Vanguard National",
+          "models": [
+            "VG",
+            "VGP",
+            "Reefer",
+            "Flatbed",
+            "Chassis"
+          ]
+        },
+        {
+          "id": 34,
+          "country": "AQSh",
+          "brand": "Landoll",
+          "models": [
+            "317",
+            "330",
+            "340",
+            "342",
+            "345",
+            "440",
+            "930",
+            "455",
+            "835"
+          ]
+        },
+        {
+          "id": 35,
+          "country": "Kanada",
+          "brand": "Manac",
+          "models": [
+            "Flat",
+            "Step Deck",
+            "Dry Van",
+            "Dump",
+            "Log",
+            "Gondola",
+            "Lowbed"
+          ]
+        },
+        {
+          "id": 36,
+          "country": "Xitoy",
+          "brand": "XCMG Trailer",
+          "models": [
+            "Dump Trailer",
+            "Fuel Tanker",
+            "Cement Tanker",
+            "Flatbed",
+            "Lowbed"
+          ]
+        },
+        {
+          "id": 37,
+          "country": "Xitoy",
+          "brand": "Shengrun",
+          "models": [
+            "yoqilg'i tashuvchi",
+            "LPG tashuvchi",
+            "kimyoviy suyuqlik",
+            "samosval",
+            "platforma",
+            "refrijerator",
+            "tsement tashuvchi"
+          ]
+        },
+        {
+          "id": 38,
+          "country": "Xitoy",
+          "brand": "Liangshan",
+          "models": [
+            "Side Dump",
+            "Rear Dump",
+            "Fence",
+            "Flatbed",
+            "Fuel Tanker",
+            "Cement Tanker",
+            "Lowbed 60t",
+            "Lowbed 150t"
+          ]
+        },
+        {
+          "id": 39,
+          "country": "Turkiya",
+          "brand": "OKT Trailer",
+          "models": [
+            "Curtainsider",
+            "Reefer",
+            "Skeletal",
+            "Tipper",
+            "Fuel Tanker",
+            "LPG",
+            "Flatbed",
+            "Cement Silo"
+          ]
+        },
+        {
+          "id": 40,
+          "country": "Turkiya",
+          "brand": "Koluman",
+          "models": [
+            "Curtainside",
+            "Box",
+            "Reefer",
+            "Tipper",
+            "Skeletal",
+            "Lowbed",
+            "Car Carrier"
+          ]
+        },
+        {
+          "id": 41,
+          "country": "Rossiya",
+          "brand": "NEFAZ",
+          "models": [
+            "NefAZ-8560",
+            "NefAZ-93341",
+            "yoqilg'i sisterna",
+            "bitum sisterna",
+            "sut sisterna",
+            "tsement tashuvchi"
+          ]
+        },
+        {
+          "id": 42,
+          "country": "Rossiya",
+          "brand": "Grunwald",
+          "models": [
+            "ST-31",
+            "ST-34",
+            "ST-40",
+            "Curtainsider",
+            "Flatbed",
+            "Fuel Tanker",
+            "Reefer",
+            "Konteyner 20ft",
+            "Konteyner 40ft"
+          ]
+        },
+        {
+          "id": 43,
+          "country": "Rossiya",
+          "brand": "Tonirovka",
+          "models": [
+            "samosval tirkamalar",
+            "platforma",
+            "sisterna"
+          ]
+        },
+        {
+          "id": 44,
+          "country": "Polsha",
+          "brand": "Zaslaw Trailers",
+          "models": [
+            "D-670A",
+            "D-659A",
+            "D-670P",
+            "D-683",
+            "D-670D"
+          ]
+        },
+        {
+          "id": 45,
+          "country": "Hindiston",
+          "brand": "Ashok Leyland Trailer",
+          "models": [
+            "Platforma 32T",
+            "Platforma 35T",
+            "Platforma 40T",
+            "Tipper Trailer",
+            "Fuel Tanker",
+            "Water Tanker",
+            "Car Carrier",
+            "Container"
+          ]
+        },
+        {
+          "id": 46,
+          "country": "Hindiston",
+          "brand": "Tata Trailer",
+          "models": [
+            "Flat",
+            "Skeletal",
+            "Tipping",
+            "Tanker",
+            "Bulker",
+            "Car Carrier",
+            "Lowbed"
+          ]
+        },
+        {
+          "id": 47,
+          "country": "Avstraliya",
+          "brand": "MaxiTRANS",
+          "models": [
+            "Maxi-CUBE",
+            "Freighter",
+            "Tieman",
+            "Flat Top",
+            "Hamelex White",
+            "Road Train"
+          ]
+        }
+      ]
+    },
+    {
+      "auto_type_id": 7,
+      "category": "Qishloq xo'jaligi texnikalari",
+      "description": "Traktorlar, kombaynlar, ekish mashinalari, purkagichlar, balya mashinalari va boshqalar",
+      "brands": [
+        {
+          "id": 1,
+          "country": "AQSh",
+          "brand": "John Deere",
+          "types": [
+            "Traktorlar: 1-9 Series (1025R dan 9RX 830 gacha)",
+            "Kombaynlar: S760, S770, S780, S790, X9 1100",
+            "Ekish: 1725, 1735, 1745, 1755, 1795",
+            "Paxta: CS770, CP770",
+            "Balya: 450M, 460M, 560M, 569",
+            "Purkagich: R4044, R4060"
+          ],
+          "models": [
+            "1025R",
+            "6R Series",
+            "8R Series",
+            "9RX 830",
+            "S760",
+            "S780",
+            "X9 1100",
+            "1755",
+            "CS770",
+            "560M",
+            "R4060"
+          ]
+        },
+        {
+          "id": 2,
+          "country": "AQSh",
+          "brand": "Case IH",
+          "types": [
+            "Traktorlar: Farmall, Maxxum, Puma, Optum, Magnum, Steiger, Quadtrac",
+            "Kombaynlar: Axial-Flow 150, 160, 250 Series",
+            "Paxta: Module Express 635",
+            "Balya: RB455, RB465, LB434XL",
+            "Purkagich: Patriot 2250, 3250, 4440"
+          ],
+          "models": [
+            "Farmall 75C",
+            "Maxxum 150",
+            "Puma 240",
+            "Optum 300",
+            "Magnum 380",
+            "Steiger 620",
+            "Quadtrac 620",
+            "Axial-Flow 250",
+            "Module Express 635",
+            "Patriot 4440"
+          ]
+        },
+        {
+          "id": 3,
+          "country": "Germaniya",
+          "brand": "CLAAS",
+          "types": [
+            "Kombaynlar: LEXION 8900-5300, TRION 750-520, TUCANO 580-320, CROP TIGER 40",
+            "O't yig'ish: JAGUAR 990/980/970/960",
+            "Traktorlar: XERION 5000/4500, AXION 960-800, ARION 660-410",
+            "Balya: QUADRANT 5300/5200, ROLLANT 540/520",
+            "Telehandler: SCORPION, TORION"
+          ],
+          "models": [
+            "LEXION 8900",
+            "LEXION 7700",
+            "TRION 750",
+            "TUCANO 560",
+            "CROP TIGER 40",
+            "JAGUAR 990",
+            "XERION 5000",
+            "AXION 960",
+            "ARION 660",
+            "QUADRANT 5300",
+            "ROLLANT 540",
+            "SCORPION 960"
+          ]
+        },
+        {
+          "id": 4,
+          "country": "Germaniya",
+          "brand": "Fendt",
+          "types": [
+            "Traktorlar: 200 Vario (211-213), 300 Vario (311-314), 500 Vario (512-516), 700 Vario (720-728), 900 Vario (930-943), 1000 Vario (1038-1046)",
+            "Kombayn: IDEAL 7/8/9/10",
+            "Balya: Rotana, Tigo"
+          ],
+          "models": [
+            "211 Vario",
+            "314 Vario",
+            "516 Vario",
+            "724 Vario",
+            "930 Vario",
+            "1042 Vario",
+            "IDEAL 8",
+            "IDEAL 10",
+            "Rotana 160V",
+            "Tigo 75"
+          ]
+        },
+        {
+          "id": 5,
+          "country": "Germaniya",
+          "brand": "Deutz-Fahr",
+          "types": [
+            "Traktorlar: 5D (75-115HP), 6G (121-140HP), 6 Series (156-226HP), 7 Series (238-271HP), 8 Series (280-340HP), 9 Series (336-440HP)",
+            "Kombayn: C5000-C9000"
+          ],
+          "models": [
+            "5D 100",
+            "6G 130",
+            "6165 Agrotron",
+            "7250 TTV",
+            "8280 TTV",
+            "9340 TTV",
+            "C6000",
+            "C7000",
+            "C9000"
+          ]
+        },
+        {
+          "id": 6,
+          "country": "Italiya",
+          "brand": "New Holland",
+          "types": [
+            "Traktorlar: T3F, T4, T5, T6, T7, T7 HD, T8, T9",
+            "Kombaynlar: CR, CX, TC Series",
+            "Balya: Roll-Belt, BigBaler",
+            "O't yig'ish: FR Forage Cruiser",
+            "Telehandler: TH, LM Series"
+          ],
+          "models": [
+            "T4.90",
+            "T5.130",
+            "T6.175",
+            "T7.315",
+            "T8.435",
+            "T9.700",
+            "CR10.90",
+            "CX8.90",
+            "Roll-Belt 560",
+            "BigBaler 1290",
+            "FR9090"
+          ]
+        },
+        {
+          "id": 7,
+          "country": "Fransiya",
+          "brand": "Kuhn",
+          "types": [
+            "O't o'rish: FC, GMD, PZ Series",
+            "Rake: GA, GF Series",
+            "Balya: VB, FB, LSB Series",
+            "Tuproq ishlash: Optimer, Prolander",
+            "Ekish: Planter, Maxima",
+            "Purkagich: Deltis, Lexis",
+            "O'g'itlash: Axis, MDS"
+          ],
+          "models": [
+            "FC 3160 TF",
+            "GMD 3150",
+            "GA 9531",
+            "VB 3190",
+            "FB 3135",
+            "LSB 1290",
+            "Optimer 3000",
+            "Maxima 3",
+            "Axis 50.2",
+            "Deltis 3200"
+          ]
+        },
+        {
+          "id": 8,
+          "country": "Finlandiya",
+          "brand": "Valtra",
+          "types": [
+            "Traktorlar: A Series (75-130HP), G Series (105-135HP), N Series (145-205HP), T Series (175-271HP), S Series (271-405HP), Q Series (230-305HP)"
+          ],
+          "models": [
+            "A114",
+            "G125",
+            "N175",
+            "T214",
+            "T234",
+            "S374",
+            "S394",
+            "Q305"
+          ]
+        },
+        {
+          "id": 9,
+          "country": "Yaponiya",
+          "brand": "Kubota",
+          "types": [
+            "Traktorlar: B Series (18-30HP), L Series (30-62HP), M Series (55-170HP), M7 (130-170HP)",
+            "Guruch kombayn: DC-70, DC-93, DC-105",
+            "Transplanter: SPU-68, NSD8"
+          ],
+          "models": [
+            "B2601",
+            "L3560",
+            "M6060",
+            "M7131",
+            "M7172",
+            "DC-70",
+            "DC-105",
+            "SPU-68"
+          ]
+        },
+        {
+          "id": 10,
+          "country": "Yaponiya",
+          "brand": "Yanmar",
+          "types": [
+            "Traktorlar: YT2 (25-60HP), YT3 (60-113HP), YT5 (100-115HP)",
+            "Kombayn: AG Series, AW Series",
+            "Transplanter: VP, RR Series"
+          ],
+          "models": [
+            "YT235",
+            "YT347",
+            "YT359",
+            "YT5113",
+            "AG600",
+            "AW Series",
+            "VP8D"
+          ]
+        },
+        {
+          "id": 11,
+          "country": "Rossiya",
+          "brand": "Rostselmash",
+          "types": [
+            "Kombaynlar: TORUM 785/780/770, ACROS 595/585, NOVA 340/330, RSM 161",
+            "O't yig'ish: RSM F2450, Don 680M",
+            "Traktorlar: RSM 2375, RSM 3575, RSM 3535"
+          ],
+          "models": [
+            "TORUM 785",
+            "TORUM 770",
+            "ACROS 595",
+            "NOVA 340",
+            "RSM 161",
+            "Don 680M",
+            "RSM 2375",
+            "RSM 3575"
+          ]
+        },
+        {
+          "id": 12,
+          "country": "Rossiya / Belorusiya",
+          "brand": "MTZ (Belarus)",
+          "types": [
+            "Traktorlar: Belarus 82.1, 892, 920, 952, 1025, 1221, 1523, 2022, 2522, 3022, 3522"
+          ],
+          "models": [
+            "Belarus 82.1",
+            "Belarus 892",
+            "Belarus 1025",
+            "Belarus 1221",
+            "Belarus 1523",
+            "Belarus 2022",
+            "Belarus 2522",
+            "Belarus 3522"
+          ]
+        },
+        {
+          "id": 13,
+          "country": "Rossiya",
+          "brand": "KTZ (Kirovets)",
+          "types": [
+            "Traktorlar: K-7M, K-5, K-424, K-525 (280-525HP og'ir traktorlar)"
+          ],
+          "models": [
+            "K-7M",
+            "K-5",
+            "K-424",
+            "K-525"
+          ]
+        },
+        {
+          "id": 14,
+          "country": "Xitoy",
+          "brand": "Lovol (Foton Ag)",
+          "types": [
+            "Traktorlar: M Series (25-260HP), TB Series, TN Series",
+            "Kombayn: GF Series, GE Series"
+          ],
+          "models": [
+            "M404-E",
+            "M1504",
+            "TB504",
+            "GF80",
+            "GE80"
+          ]
+        },
+        {
+          "id": 15,
+          "country": "Hindiston",
+          "brand": "Mahindra Tractors",
+          "types": [
+            "Traktorlar: JIVO (20-25HP), Yuvo (32-53HP), Arjun Novo (42-75HP), NOVO (35-75HP), OJA (40-50HP)"
+          ],
+          "models": [
+            "JIVO 225",
+            "Yuvo 415",
+            "Arjun Novo 605",
+            "NOVO 755",
+            "OJA 3140",
+            "Swaraj 963 FE"
+          ]
+        },
+        {
+          "id": 16,
+          "country": "Turkiya",
+          "brand": "Hattat",
+          "types": [
+            "Traktorlar: A Series (50-110HP), B Series (55-110HP), C Series (70-110HP), T Series (55-75HP)"
+          ],
+          "models": [
+            "A60",
+            "A110",
+            "B60",
+            "B100",
+            "C70",
+            "C110",
+            "T60",
+            "T75"
+          ]
+        },
+        {
+          "id": 17,
+          "country": "O'zbekiston",
+          "brand": "UzCASE (CLAAS Uzbekistan)",
+          "types": [
+            "Kombaynlar: CLAAS TUCANO, CROP TIGER (mahalliy yig'ish)",
+            "CASE IH Axial-Flow (mahalliy yig'ish)"
+          ],
+          "models": [
+            "TUCANO (mahalliy)",
+            "CROP TIGER (mahalliy)",
+            "Axial-Flow (mahalliy)"
+          ]
+        },
+        {
+          "id": 18,
+          "country": "Braziliya",
+          "brand": "Jacto",
+          "types": [
+            "Purkagich: Uniport (SP), Advance (tirkamali)",
+            "O'g'itlash: PJH",
+            "Kofe yig'ish: K3 Millennium"
+          ],
+          "models": [
+            "Uniport 3000",
+            "Uniport 4530",
+            "Advance 3000",
+            "K3 Millennium"
+          ]
+        },
+        {
+          "id": 19,
+          "country": "AQSh",
+          "brand": "AGCO",
+          "models": [
+            "Massey Ferguson 241 DI",
+            "Massey Ferguson 7250",
+            "Massey Ferguson 9500",
+            "Challenger MT700",
+            "Challenger MT800",
+            "RoGator 600",
+            "RoGator 900",
+            "TerraGator 8400"
+          ]
+        },
+        {
+          "id": 20,
+          "country": "AQSh",
+          "brand": "Kinze",
+          "models": [
+            "3660",
+            "3665",
+            "4900",
+            "4905",
+            "Grain Cart 1051",
+            "Grain Cart 1300",
+            "Grain Cart 1600"
+          ]
+        },
+        {
+          "id": 21,
+          "country": "AQSh",
+          "brand": "Vermeer (Ag)",
+          "models": [
+            "605N",
+            "605R",
+            "504R",
+            "TM700",
+            "TM810",
+            "TM1400",
+            "R2300",
+            "R2800",
+            "RTX550"
+          ]
+        },
+        {
+          "id": 22,
+          "country": "Germaniya",
+          "brand": "Amazone",
+          "models": [
+            "Cayena",
+            "Citan",
+            "Precea",
+            "ZA-TS",
+            "ZA-V",
+            "ZG-TS",
+            "UX",
+            "UF",
+            "Pantera",
+            "Catros",
+            "Cenius",
+            "Certos"
+          ]
+        },
+        {
+          "id": 23,
+          "country": "Germaniya",
+          "brand": "Lemken",
+          "models": [
+            "Juwel",
+            "EurOpal",
+            "VariOpal",
+            "Diamant",
+            "Karat",
+            "Kristall",
+            "Heliodor",
+            "Solitair",
+            "Azurit",
+            "Vega",
+            "Sirius",
+            "Gemini"
+          ]
+        },
+        {
+          "id": 24,
+          "country": "Germaniya",
+          "brand": "Grimme",
+          "models": [
+            "GL34T",
+            "GL44T",
+            "SE 150-60",
+            "SE 260",
+            "VARITRON 470",
+            "VARITRON 270",
+            "TECTRON 415",
+            "CleanLoader",
+            "Rexor",
+            "Rootster"
+          ]
+        },
+        {
+          "id": 25,
+          "country": "Germaniya",
+          "brand": "Horsch",
+          "models": [
+            "Pronto",
+            "Maestro",
+            "Avatar",
+            "Joker",
+            "Tiger",
+            "Terrano",
+            "Leeb PT",
+            "Leeb LT",
+            "Leeb GS"
+          ]
+        },
+        {
+          "id": 26,
+          "country": "Italiya",
+          "brand": "Same Deutz-Fahr",
+          "models": [
+            "Same Explorer",
+            "Same Dorado",
+            "Same Virtus",
+            "Same Frutteto",
+            "Lamborghini Spark",
+            "Lamborghini Nitro",
+            "Lamborghini Mach",
+            "Lamborghini R6"
+          ]
+        },
+        {
+          "id": 27,
+          "country": "Italiya",
+          "brand": "Antonio Carraro",
+          "models": [
+            "Tigre",
+            "TGF",
+            "TRG",
+            "TRX",
+            "Mach",
+            "Tony"
+          ]
+        },
+        {
+          "id": 28,
+          "country": "Italiya",
+          "brand": "BCS Group",
+          "models": [
+            "Volcan",
+            "Invictus",
+            "Vithar",
+            "Motobloklarr 740",
+            "Motobloklarr 750",
+            "Motobloklarr 770"
+          ]
+        },
+        {
+          "id": 29,
+          "country": "Italiya",
+          "brand": "Maschio Gaspardo",
+          "models": [
+            "MTR",
+            "MTE",
+            "SP",
+            "Mirka",
+            "Tempo",
+            "Campo",
+            "Bufalo",
+            "Giraffa",
+            "Corvo"
+          ]
+        },
+        {
+          "id": 30,
+          "country": "Fransiya",
+          "brand": "Manitou (Ag)",
+          "models": [
+            "MLT 420",
+            "MLT 625",
+            "MLT 733",
+            "MLT 840",
+            "MLT 960",
+            "MLT 1040",
+            "MLT 1135"
+          ]
+        },
+        {
+          "id": 31,
+          "country": "Buyuk Britaniya",
+          "brand": "JCB (Ag)",
+          "models": [
+            "Fastrac 4160",
+            "Fastrac 4190",
+            "Fastrac 4220",
+            "Fastrac 8290",
+            "Fastrac 8330",
+            "Loadall 531-70",
+            "Loadall 536-70",
+            "Loadall 542-70",
+            "Loadall 560-80"
+          ]
+        },
+        {
+          "id": 32,
+          "country": "Buyuk Britaniya",
+          "brand": "McConnel",
+          "models": [
+            "PA53",
+            "PA65",
+            "PA93"
+          ]
+        },
+        {
+          "id": 33,
+          "country": "Yaponiya",
+          "brand": "Iseki",
+          "models": [
+            "TG Series",
+            "TJ Series",
+            "AT Series",
+            "HJ Series",
+            "PZ Series",
+            "SF Series",
+            "SZ Series"
+          ]
+        },
+        {
+          "id": 34,
+          "country": "Janubiy Koreya",
+          "brand": "LS Mtron (LS Tractor)",
+          "models": [
+            "MT1",
+            "MT3",
+            "MT5",
+            "H Series",
+            "Plus Series",
+            "XG",
+            "XP",
+            "XR",
+            "XU"
+          ]
+        },
+        {
+          "id": 35,
+          "country": "Janubiy Koreya",
+          "brand": "TYM",
+          "models": [
+            "T25",
+            "T394",
+            "T474",
+            "T574",
+            "T654",
+            "T1104",
+            "Series 2"
+          ]
+        },
+        {
+          "id": 36,
+          "country": "Janubiy Koreya",
+          "brand": "Kukje (Branson)",
+          "models": [
+            "1500 Series",
+            "2550 Series",
+            "4520 Series",
+            "6530 Series",
+            "8050 Series",
+            "BL Series"
+          ]
+        },
+        {
+          "id": 37,
+          "country": "Xitoy",
+          "brand": "YTO (Sinomach)",
+          "models": [
+            "LX Series",
+            "LF Series",
+            "MF Series"
+          ]
+        },
+        {
+          "id": 38,
+          "country": "Xitoy",
+          "brand": "Zoomlion Agriculture",
+          "models": [
+            "PH Series",
+            "PL Series",
+            "PK Series",
+            "TE Series",
+            "TC Series",
+            "TB Series",
+            "ZPTF Series",
+            "3WDZ Series"
+          ]
+        },
+        {
+          "id": 39,
+          "country": "Xitoy",
+          "brand": "DFAM (Dongfeng Ag)",
+          "models": [
+            "254 Series",
+            "454 Series",
+            "804 Series",
+            "1004 Series",
+            "1504 Series",
+            "2204 Series",
+            "4LZ Series",
+            "4SZ Series"
+          ]
+        },
+        {
+          "id": 40,
+          "country": "Xitoy",
+          "brand": "Weichai Lovol",
+          "models": [
+            "Arbos 3000",
+            "Arbos 5000",
+            "M Series",
+            "GE80"
+          ]
+        },
+        {
+          "id": 41,
+          "country": "Hindiston",
+          "brand": "TAFE",
+          "models": [
+            "Massey Ferguson 241 DI",
+            "Massey Ferguson 7250",
+            "Massey Ferguson 9500",
+            "Eicher 380",
+            "Eicher 485",
+            "Eicher 557",
+            "DynaTrack 45",
+            "DynaTrack 55"
+          ]
+        },
+        {
+          "id": 42,
+          "country": "Hindiston",
+          "brand": "Sonalika",
+          "models": [
+            "DI 35",
+            "DI 60",
+            "DI 90",
+            "Tiger",
+            "Worldtrac",
+            "GT Series",
+            "Type-770",
+            "Type-990"
+          ]
+        },
+        {
+          "id": 43,
+          "country": "Hindiston",
+          "brand": "Swaraj (Mahindra)",
+          "models": [
+            "717",
+            "724",
+            "735",
+            "744",
+            "855",
+            "963",
+            "Swaraj 8100"
+          ]
+        },
+        {
+          "id": 44,
+          "country": "Hindiston",
+          "brand": "VST Tillers",
+          "models": [
+            "VST Shakti 18HP",
+            "VST Shakti 26HP",
+            "VST Shakti 47HP",
+            "VT Series",
+            "Yanji Transplanter"
+          ]
+        },
+        {
+          "id": 45,
+          "country": "Hindiston",
+          "brand": "Escorts Kubota",
+          "models": [
+            "Farmtrac 25HP",
+            "Farmtrac 45HP",
+            "Farmtrac 75HP",
+            "Powertrac 22HP",
+            "Powertrac 55HP",
+            "Steeltrac"
+          ]
+        },
+        {
+          "id": 46,
+          "country": "Rossiya",
+          "brand": "Agromash",
+          "models": [
+            "30TK",
+            "50TK",
+            "85TK",
+            "Ruslan",
+            "Yenisey 1200"
+          ]
+        },
+        {
+          "id": 47,
+          "country": "Belorusiya",
+          "brand": "Gomselmash",
+          "models": [
+            "GS12",
+            "GS14",
+            "GS16",
+            "KSK-600",
+            "KPK-3",
+            "KSN-6",
+            "KMC-6"
+          ]
+        },
+        {
+          "id": 48,
+          "country": "Belorusiya",
+          "brand": "Lidselmash",
+          "models": [
+            "SPU-6",
+            "SPU-8",
+            "RDU",
+            "MTU",
+            "OP-2000",
+            "OPSh-15"
+          ]
+        },
+        {
+          "id": 49,
+          "country": "Turkiya",
+          "brand": "TürkTraktör (AGCO)",
+          "models": [
+            "Massey Ferguson 2600",
+            "Massey Ferguson 3600",
+            "Massey Ferguson 4700",
+            "Massey Ferguson 5700",
+            "Massey Ferguson 6700",
+            "Massey Ferguson 7600"
+          ]
+        },
+        {
+          "id": 50,
+          "country": "Turkiya",
+          "brand": "Basak",
+          "models": [
+            "2073",
+            "2080",
+            "2090",
+            "2110",
+            "5120"
+          ]
+        },
+        {
+          "id": 51,
+          "country": "O'zbekiston",
+          "brand": "UzTraktorSanoat",
+          "models": [
+            "TTZ traktorlar (mahalliy)",
+            "Belarus 82.1 yig'ish",
+            "Belarus 1025 yig'ish"
+          ]
+        },
+        {
+          "id": 52,
+          "country": "O'zbekiston",
+          "brand": "Chirchiq qishloq xo'jalik texnikasi",
+          "models": [
+            "ekish mashinalari",
+            "kultivatorlar",
+            "pluglar",
+            "purkagichlar"
+          ]
+        },
+        {
+          "id": 53,
+          "country": "Braziliya",
+          "brand": "Stara",
+          "models": [
+            "Imperador",
+            "Defensor",
+            "Absoluta",
+            "Estrela",
+            "Hercules",
+            "Ninja",
+            "ST MAX"
+          ]
+        }
+      ]
+    },
+    {
+      "auto_type_id": 3,
+      "category": "Yuk avtomobillari",
+      "description": "Dunyo yuk avtomobillari markalari va modellari — 2026-yil",
+      "brands": [
+        {
+          "id": 1,
+          "country": "Germaniya",
+          "brand": "Mercedes-Benz Trucks",
+          "models": [
+            "Actros",
+            "Actros L",
+            "eActros",
+            "eActros 600",
+            "Arocs",
+            "Atego",
+            "Econic",
+            "Unimog",
+            "Zetros"
+          ]
+        },
+        {
+          "id": 2,
+          "country": "Germaniya",
+          "brand": "MAN",
+          "models": [
+            "TGX",
+            "TGS",
+            "TGM",
+            "TGL",
+            "TGE",
+            "eTGM",
+            "eTGS",
+            "eTGX",
+            "Lion’s City (avtobus shassisi)"
+          ]
+        },
+        {
+          "id": 3,
+          "country": "Germaniya",
+          "brand": "Magirus (Iveco)",
+          "models": [
+            "Magirus Deutz (tarixiy)",
+            "hozir Iveco tarkibida"
+          ]
+        },
+        {
+          "id": 4,
+          "country": "Shvetsiya",
+          "brand": "Volvo Trucks",
+          "models": [
+            "FH",
+            "FH16",
+            "FH Electric",
+            "FM",
+            "FM Electric",
+            "FMX",
+            "FE",
+            "FE Electric",
+            "FL",
+            "FL Electric",
+            "VNL",
+            "VNR",
+            "VHD",
+            "VNX"
+          ]
+        },
+        {
+          "id": 5,
+          "country": "Shvetsiya",
+          "brand": "Scania",
+          "models": [
+            "R Series",
+            "S Series",
+            "G Series",
+            "P Series",
+            "L Series",
+            "XT (off-road)",
+            "Scania Super",
+            "Scania BEV (elektr)"
+          ]
+        },
+        {
+          "id": 6,
+          "country": "Niderlandiya",
+          "brand": "DAF",
+          "models": [
+            "XF",
+            "XG",
+            "XG+",
+            "XD",
+            "XB",
+            "XFC",
+            "LF",
+            "CF (avvalgi avlod)"
+          ]
+        },
+        {
+          "id": 7,
+          "country": "Niderlandiya",
+          "brand": "Ginaf",
+          "models": [
+            "HD5380T",
+            "X Series (og‘ir yuk, maxsus qurilish texnikasi)"
+          ]
+        },
+        {
+          "id": 8,
+          "country": "Italiya",
+          "brand": "Iveco",
+          "models": [
+            "S-Way",
+            "T-Way",
+            "X-Way",
+            "Eurocargo",
+            "Daily",
+            "eDaily",
+            "Nikola Tre (elektr)",
+            "Trakker (avvalgi)"
+          ]
+        },
+        {
+          "id": 9,
+          "country": "Italiya",
+          "brand": "Astra",
+          "models": [
+            "HD9",
+            "HHD9",
+            "RD (og‘ir off-road yuk mashinalari)"
+          ]
+        },
+        {
+          "id": 10,
+          "country": "Fransiya",
+          "brand": "Renault Trucks",
+          "models": [
+            "T",
+            "T High",
+            "T Electric",
+            "C",
+            "K",
+            "D",
+            "D Wide",
+            "D Electric",
+            "Master Red Edition",
+            "E-Tech (elektr seriyasi)"
+          ]
+        },
+        {
+          "id": 11,
+          "country": "AQSh",
+          "brand": "Freightliner",
+          "models": [
+            "Cascadia",
+            "eCascadia",
+            "M2 106",
+            "M2 112",
+            "108SD",
+            "114SD",
+            "122SD",
+            "Business Class"
+          ]
+        },
+        {
+          "id": 12,
+          "country": "AQSh",
+          "brand": "Kenworth",
+          "models": [
+            "T680",
+            "T880",
+            "W990",
+            "W900L",
+            "T480",
+            "T380",
+            "T270",
+            "C500"
+          ]
+        },
+        {
+          "id": 13,
+          "country": "AQSh",
+          "brand": "Peterbilt",
+          "models": [
+            "579",
+            "567",
+            "589",
+            "536",
+            "537",
+            "535",
+            "520EV",
+            "Model 579EV"
+          ]
+        },
+        {
+          "id": 14,
+          "country": "AQSh",
+          "brand": "Mack",
+          "models": [
+            "Anthem",
+            "Pinnacle",
+            "Granite",
+            "LR",
+            "LR Electric",
+            "MD Series",
+            "MD Electric",
+            "TerraPro"
+          ]
+        },
+        {
+          "id": 15,
+          "country": "AQSh",
+          "brand": "International (Navistar)",
+          "models": [
+            "LT Series",
+            "RH Series",
+            "HV Series",
+            "HX Series",
+            "MV Series",
+            "eMV Series",
+            "CV Series"
+          ]
+        },
+        {
+          "id": 16,
+          "country": "AQSh",
+          "brand": "Western Star",
+          "models": [
+            "4700",
+            "4900",
+            "49X",
+            "57X"
+          ]
+        },
+        {
+          "id": 17,
+          "country": "AQSh",
+          "brand": "Nikola",
+          "models": [
+            "Tre BEV",
+            "Tre FCEV (vodorod)",
+            "Two (vodorod)"
+          ]
+        },
+        {
+          "id": 18,
+          "country": "AQSh",
+          "brand": "Tesla Semi",
+          "models": [
+            "Tesla Semi (elektr magistral yuk mashinasi)"
+          ]
+        },
+        {
+          "id": 19,
+          "country": "Yaponiya",
+          "brand": "Hino (Toyota)",
+          "models": [
+            "Dutro (yengil)",
+            "Ranger (o‘rta)",
+            "Profia (og‘ir)",
+            "500 Series",
+            "700 Series",
+            "300 Series"
+          ]
+        },
+        {
+          "id": 20,
+          "country": "Yaponiya",
+          "brand": "Isuzu",
+          "models": [
+            "Giga",
+            "Forward",
+            "Elf/N-Series",
+            "F-Series",
+            "FTR",
+            "FVR",
+            "NRR",
+            "NPR",
+            "NQR"
+          ]
+        },
+        {
+          "id": 21,
+          "country": "Yaponiya",
+          "brand": "Mitsubishi Fuso",
+          "models": [
+            "Super Great",
+            "Fighter",
+            "Canter",
+            "eCanter (elektr)",
+            "Shogun"
+          ]
+        },
+        {
+          "id": 22,
+          "country": "Yaponiya",
+          "brand": "UD Trucks (Volvo)",
+          "models": [
+            "Quon",
+            "Condor",
+            "Kuzer",
+            "Croner"
+          ]
+        },
+        {
+          "id": 23,
+          "country": "Janubiy Koreya",
+          "brand": "Hyundai Trucks",
+          "models": [
+            "Xcient",
+            "Xcient Fuel Cell (vodorod)",
+            "Pavise",
+            "Mighty",
+            "Porter",
+            "EX Series"
+          ]
+        },
+        {
+          "id": 24,
+          "country": "Janubiy Koreya",
+          "brand": "Kia Trucks",
+          "models": [
+            "Bongo III (yengil yuk)"
+          ]
+        },
+        {
+          "id": 25,
+          "country": "Janubiy Koreya",
+          "brand": "Tata Daewoo",
+          "models": [
+            "Prima",
+            "Novus",
+            "Maximus",
+            "CL (avvalgi Daewoo Trucks)"
+          ]
+        },
+        {
+          "id": 26,
+          "country": "Xitoy",
+          "brand": "FAW (Jiefang)",
+          "models": [
+            "J7",
+            "J6P",
+            "J6L",
+            "J5",
+            "Tiger V",
+            "Jiefang JH6",
+            "J6F (yengil yuk)"
+          ]
+        },
+        {
+          "id": 27,
+          "country": "Xitoy",
+          "brand": "Dongfeng",
+          "models": [
+            "KX",
+            "KR",
+            "KL",
+            "Tianjin",
+            "Captain",
+            "Duolika",
+            "T5 (magistral)"
+          ]
+        },
+        {
+          "id": 28,
+          "country": "Xitoy",
+          "brand": "Sinotruk (HOWO)",
+          "models": [
+            "HOWO A7",
+            "HOWO T7H",
+            "HOWO TH7",
+            "HOWO Max",
+            "Steyr",
+            "Sitrak C7H",
+            "Sitrak G7"
+          ]
+        },
+        {
+          "id": 29,
+          "country": "Xitoy",
+          "brand": "Foton",
+          "models": [
+            "Auman EST",
+            "Auman GTL",
+            "Aumark",
+            "Ollin",
+            "Forland",
+            "Tunland (pikap)"
+          ]
+        },
+        {
+          "id": 30,
+          "country": "Xitoy",
+          "brand": "Shacman (Shaanxi)",
+          "models": [
+            "X3000",
+            "X5000",
+            "X6000",
+            "F3000",
+            "L3000",
+            "H3000",
+            "Delong"
+          ]
+        },
+        {
+          "id": 31,
+          "country": "Xitoy",
+          "brand": "JAC",
+          "models": [
+            "Gallop K7",
+            "N-Series",
+            "X-Series",
+            "Junling",
+            "Kangling",
+            "Shuailing"
+          ]
+        },
+        {
+          "id": 32,
+          "country": "Xitoy",
+          "brand": "CAMC (Hualing)",
+          "models": [
+            "Hanma H7",
+            "Hanma H6",
+            "Hanma H9",
+            "Star Ka"
+          ]
+        },
+        {
+          "id": 33,
+          "country": "Xitoy",
+          "brand": "Beiben (North Benz)",
+          "models": [
+            "V3",
+            "NG80B",
+            "2538",
+            "2534",
+            "2542 (off-road va og‘ir yuk)"
+          ]
+        },
+        {
+          "id": 34,
+          "country": "Xitoy",
+          "brand": "SANY",
+          "models": [
+            "Yingtuo (magistral tractor)",
+            "Heavy Truck Series (qurilish)"
+          ]
+        },
+        {
+          "id": 35,
+          "country": "Xitoy",
+          "brand": "Geely (Farizon)",
+          "models": [
+            "Farizon Auto TD",
+            "Homtruck (elektr konsept)"
+          ]
+        },
+        {
+          "id": 36,
+          "country": "Hindiston",
+          "brand": "Tata Motors",
+          "models": [
+            "Prima",
+            "Signa",
+            "Ultra",
+            "Ace",
+            "Yodha",
+            "Intra",
+            "LPT Series",
+            "Starbus (avtobus shassisi)"
+          ]
+        },
+        {
+          "id": 37,
+          "country": "Hindiston",
+          "brand": "Ashok Leyland",
+          "models": [
+            "Captain",
+            "AVTR",
+            "Guru",
+            "Ecomet",
+            "Boss",
+            "Partner",
+            "Dost",
+            "Bada Dost",
+            "SWITCH EiV"
+          ]
+        },
+        {
+          "id": 38,
+          "country": "Hindiston",
+          "brand": "Mahindra Trucks",
+          "models": [
+            "Blazo X",
+            "Furio 7",
+            "Jayo",
+            "Supro",
+            "Bolero Pickup",
+            "Alfa"
+          ]
+        },
+        {
+          "id": 39,
+          "country": "Hindiston",
+          "brand": "BharatBenz (Daimler)",
+          "models": [
+            "1015R",
+            "1415R",
+            "1617R",
+            "2823R",
+            "3523R",
+            "4228R",
+            "5228TT (HDT)"
+          ]
+        },
+        {
+          "id": 40,
+          "country": "Hindiston",
+          "brand": "Eicher",
+          "models": [
+            "Pro 2000",
+            "Pro 3000",
+            "Pro 5000",
+            "Pro 6000 Series"
+          ]
+        },
+        {
+          "id": 41,
+          "country": "Hindiston",
+          "brand": "Force Motors",
+          "models": [
+            "Traveller",
+            "Shaktiman",
+            "Citiline"
+          ]
+        },
+        {
+          "id": 42,
+          "country": "Rossiya",
+          "brand": "KamAZ",
+          "models": [
+            "KamAZ-54901",
+            "KamAZ-65115",
+            "KamAZ-6520",
+            "KamAZ-43118",
+            "KamAZ-5490",
+            "Compass (yengil yuk)",
+            "K5 Neo"
+          ]
+        },
+        {
+          "id": 43,
+          "country": "Rossiya",
+          "brand": "GAZ",
+          "models": [
+            "GAZon Next",
+            "GAZelle Next",
+            "GAZelle NN",
+            "GAZelle Business",
+            "Valdai Next",
+            "Sadko Next"
+          ]
+        },
+        {
+          "id": 44,
+          "country": "Rossiya",
+          "brand": "Ural",
+          "models": [
+            "Ural Next",
+            "Ural-4320",
+            "Ural-6370",
+            "Ural-M"
+          ]
+        },
+        {
+          "id": 45,
+          "country": "Rossiya",
+          "brand": "MAZ",
+          "models": [
+            "MAZ-5440",
+            "MAZ-6430",
+            "MAZ-6501",
+            "MAZ-4371 Zubryonok"
+          ]
+        },
+        {
+          "id": 46,
+          "country": "Ukraina",
+          "brand": "KRAZ",
+          "models": [
+            "KrAZ-6322",
+            "KrAZ-7140",
+            "KrAZ Spartan",
+            "KrAZ Cougar"
+          ]
+        },
+        {
+          "id": 47,
+          "country": "Belorusiya",
+          "brand": "BelAZ",
+          "models": [
+            "BelAZ-7513",
+            "BelAZ-7530",
+            "BelAZ-75710 (dunyo eng katta)",
+            "BelAZ-7555",
+            "BelAZ-7547"
+          ]
+        },
+        {
+          "id": 48,
+          "country": "Belorusiya",
+          "brand": "MAZ",
+          "models": [
+            "MAZ-5440M",
+            "MAZ-6430",
+            "MAZ-6501",
+            "MAZ-5340",
+            "MAZ-4371"
+          ]
+        },
+        {
+          "id": 49,
+          "country": "Turkiya",
+          "brand": "BMC",
+          "models": [
+            "Tuggra",
+            "Probus",
+            "Professional",
+            "Fatih",
+            "Amazon"
+          ]
+        },
+        {
+          "id": 50,
+          "country": "Turkiya",
+          "brand": "Ford Otosan",
+          "models": [
+            "F-Max",
+            "Cargo (1833, 1842, 2533, 3233)",
+            "Transit (yengil yuk)"
+          ]
+        },
+        {
+          "id": 51,
+          "country": "Turkiya",
+          "brand": "Karsan",
+          "models": [
+            "Jest",
+            "Atak",
+            "Star (asoson avtobus, yengil yuk)"
+          ]
+        },
+        {
+          "id": 52,
+          "country": "Turkiya",
+          "brand": "Otokar",
+          "models": [
+            "Atlas",
+            "Navigo",
+            "Sultan (avtobus/yuk shassisi)"
+          ]
+        },
+        {
+          "id": 53,
+          "country": "Buyuk Britaniya",
+          "brand": "Leyland Trucks (PACCAR)",
+          "models": [
+            "DAF LF (Leyland ishlab chiqaradi)"
+          ]
+        },
+        {
+          "id": 54,
+          "country": "Buyuk Britaniya",
+          "brand": "Dennis Eagle",
+          "models": [
+            "Elite 6",
+            "Olympus",
+            "ProView (chiqindi yig‘ish mashinalari)"
+          ]
+        },
+        {
+          "id": 55,
+          "country": "Buyuk Britaniya",
+          "brand": "Tevva",
+          "models": [
+            "Tevva 7.5t (elektr yuk mashinasi)"
+          ]
+        },
+        {
+          "id": 56,
+          "country": "Avstriya",
+          "brand": "Tatra",
+          "models": [
+            "Phoenix",
+            "Force",
+            "Terra (og‘ir off-road, harbiy)"
+          ]
+        },
+        {
+          "id": 57,
+          "country": "Chexiya",
+          "brand": "Tatra Trucks",
+          "models": [
+            "Tatra Phoenix",
+            "Tatra Force",
+            "Tatra Terra (off-road, harbiy, tog‘ yo‘llari)"
+          ]
+        },
+        {
+          "id": 58,
+          "country": "Finlandiya",
+          "brand": "Sisu Auto",
+          "models": [
+            "Sisu Polar",
+            "Sisu Rock",
+            "Sisu E-Series (og‘ir off-road, o‘rmon xo‘jaligi)"
+          ]
+        },
+        {
+          "id": 59,
+          "country": "Braziliya",
+          "brand": "Volkswagen Caminhoes",
+          "models": [
+            "Constellation",
+            "Delivery",
+            "Meteor",
+            "Volksbus",
+            "e-Delivery (elektr)"
+          ]
+        },
+        {
+          "id": 60,
+          "country": "Braziliya",
+          "brand": "Agrale",
+          "models": [
+            "8700",
+            "14000",
+            "Marruá (harbiy/off-road)"
+          ]
+        },
+        {
+          "id": 61,
+          "country": "Eron",
+          "brand": "Iran Khodro Diesel",
+          "models": [
+            "Aras (magistral)",
+            "Kavian",
+            "KB Series"
+          ]
+        },
+        {
+          "id": 62,
+          "country": "Eron",
+          "brand": "SAIPA Diesel (Zamyad)",
+          "models": [
+            "Zamyad Z24",
+            "Z28",
+            "Neisan Diesel"
+          ]
+        },
+        {
+          "id": 63,
+          "country": "O‘zbekiston",
+          "brand": "SamAuto (MAN texnologiyasi)",
+          "models": [
+            "SamTruck",
+            "SamAuto S Series (o‘rta va og‘ir yuk)"
+          ]
+        }
+      ]
+    },
+    {
+      "auto_type_id": 2,
+      "category": "Yengil avtomobillar",
+      "description": "Dunyo yengil avtomobil markalari va modellari — 2026-yil",
+      "brands": [
+        {
+          "id": 1,
+          "country": "Germaniya",
+          "brand": "Mercedes-Benz",
+          "models": [
+            "A-Class",
+            "C-Class",
+            "E-Class",
+            "S-Class",
+            "GLA",
+            "GLB",
+            "GLC",
+            "GLE",
+            "GLS",
+            "CLA",
+            "CLE",
+            "AMG GT",
+            "EQS",
+            "EQE",
+            "EQA",
+            "EQB",
+            "G-Class",
+            "Maybach S-Class"
+          ]
+        },
+        {
+          "id": 2,
+          "country": "Germaniya",
+          "brand": "BMW",
+          "models": [
+            "1 Series",
+            "2 Series",
+            "3 Series",
+            "4 Series",
+            "5 Series",
+            "7 Series",
+            "8 Series",
+            "X1",
+            "X2",
+            "X3",
+            "X4",
+            "X5",
+            "X6",
+            "X7",
+            "XM",
+            "iX",
+            "i4",
+            "i5",
+            "i7",
+            "Z4",
+            "M3",
+            "M4",
+            "M5"
+          ]
+        },
+        {
+          "id": 3,
+          "country": "Germaniya",
+          "brand": "Audi",
+          "models": [
+            "A1",
+            "A3",
+            "A4",
+            "A5",
+            "A6",
+            "A7",
+            "A8",
+            "Q2",
+            "Q3",
+            "Q4 e-tron",
+            "Q5",
+            "Q7",
+            "Q8",
+            "e-tron GT",
+            "RS3",
+            "RS5",
+            "RS6",
+            "RS7",
+            "TT",
+            "R8"
+          ]
+        },
+        {
+          "id": 4,
+          "country": "Germaniya",
+          "brand": "Volkswagen",
+          "models": [
+            "Polo",
+            "Golf",
+            "Passat",
+            "Arteon",
+            "Tiguan",
+            "T-Roc",
+            "T-Cross",
+            "Taos",
+            "Touareg",
+            "ID.3",
+            "ID.4",
+            "ID.5",
+            "ID.7",
+            "ID.Buzz",
+            "Jetta",
+            "Atlas"
+          ]
+        },
+        {
+          "id": 5,
+          "country": "Germaniya",
+          "brand": "Porsche",
+          "models": [
+            "911",
+            "Cayenne",
+            "Macan",
+            "Panamera",
+            "Taycan",
+            "718 Boxster",
+            "718 Cayman"
+          ]
+        },
+        {
+          "id": 6,
+          "country": "Germaniya",
+          "brand": "Opel",
+          "models": [
+            "Corsa",
+            "Astra",
+            "Mokka",
+            "Crossland",
+            "Grandland",
+            "Combo",
+            "Vivaro"
+          ]
+        },
+        {
+          "id": 7,
+          "country": "Germaniya",
+          "brand": "Mini",
+          "models": [
+            "Cooper",
+            "Countryman",
+            "Clubman",
+            "Paceman",
+            "Aceman"
+          ]
+        },
+        {
+          "id": 8,
+          "country": "Yaponiya",
+          "brand": "Toyota",
+          "models": [
+            "Corolla",
+            "Camry",
+            "RAV4",
+            "Land Cruiser 300",
+            "Land Cruiser Prado",
+            "Highlander",
+            "C-HR",
+            "Yaris",
+            "GR86",
+            "Supra",
+            "Crown",
+            "bZ4X",
+            "Fortuner",
+            "Hilux",
+            "Avalon"
+          ]
+        },
+        {
+          "id": 9,
+          "country": "Yaponiya",
+          "brand": "Honda",
+          "models": [
+            "Civic",
+            "Accord",
+            "CR-V",
+            "HR-V",
+            "Pilot",
+            "Passport",
+            "Odyssey",
+            "Fit/Jazz",
+            "ZR-V",
+            "e:Ny1",
+            "Prologue"
+          ]
+        },
+        {
+          "id": 10,
+          "country": "Yaponiya",
+          "brand": "Nissan",
+          "models": [
+            "Altima",
+            "Sentra",
+            "Maxima",
+            "Qashqai",
+            "X-Trail/Rogue",
+            "Pathfinder",
+            "Patrol",
+            "Juke",
+            "Kicks",
+            "Ariya",
+            "Leaf",
+            "GT-R",
+            "370Z/400Z"
+          ]
+        },
+        {
+          "id": 11,
+          "country": "Yaponiya",
+          "brand": "Mazda",
+          "models": [
+            "Mazda2",
+            "Mazda3",
+            "Mazda6",
+            "CX-3",
+            "CX-30",
+            "CX-5",
+            "CX-50",
+            "CX-60",
+            "CX-70",
+            "CX-80",
+            "CX-90",
+            "MX-5 Miata",
+            "MX-30"
+          ]
+        },
+        {
+          "id": 12,
+          "country": "Yaponiya",
+          "brand": "Subaru",
+          "models": [
+            "Impreza",
+            "Legacy",
+            "Outback",
+            "Forester",
+            "Crosstrek",
+            "WRX",
+            "BRZ",
+            "Solterra",
+            "Ascent"
+          ]
+        },
+        {
+          "id": 13,
+          "country": "Yaponiya",
+          "brand": "Mitsubishi",
+          "models": [
+            "Outlander",
+            "Eclipse Cross",
+            "ASX/RVR",
+            "Pajero Sport",
+            "L200/Triton",
+            "Xpander",
+            "Colt",
+            "Delica"
+          ]
+        },
+        {
+          "id": 14,
+          "country": "Yaponiya",
+          "brand": "Suzuki",
+          "models": [
+            "Swift",
+            "Vitara",
+            "S-Cross",
+            "Jimny",
+            "Ignis",
+            "Baleno",
+            "Ciaz",
+            "Ertiga",
+            "XL7",
+            "Fronx",
+            "Grand Vitara"
+          ]
+        },
+        {
+          "id": 15,
+          "country": "Yaponiya",
+          "brand": "Lexus",
+          "models": [
+            "IS",
+            "ES",
+            "LS",
+            "NX",
+            "RX",
+            "GX",
+            "LX",
+            "UX",
+            "TX",
+            "LC",
+            "RC",
+            "RZ",
+            "LBX"
+          ]
+        },
+        {
+          "id": 16,
+          "country": "Yaponiya",
+          "brand": "Infiniti",
+          "models": [
+            "Q50",
+            "Q60",
+            "QX50",
+            "QX55",
+            "QX60",
+            "QX80"
+          ]
+        },
+        {
+          "id": 17,
+          "country": "Yaponiya",
+          "brand": "Acura",
+          "models": [
+            "Integra",
+            "TLX",
+            "MDX",
+            "RDX",
+            "ZDX"
+          ]
+        },
+        {
+          "id": 18,
+          "country": "Yaponiya",
+          "brand": "Daihatsu",
+          "models": [
+            "Rocky",
+            "Taft",
+            "Tanto",
+            "Move",
+            "Mira",
+            "Ayla",
+            "Xenia",
+            "Terios"
+          ]
+        },
+        {
+          "id": 19,
+          "country": "Janubiy Koreya",
+          "brand": "Hyundai",
+          "models": [
+            "Accent",
+            "Elantra",
+            "Sonata",
+            "Grandeur/Azera",
+            "Tucson",
+            "Santa Fe",
+            "Palisade",
+            "Kona",
+            "Venue",
+            "Creta",
+            "Bayon",
+            "IONIQ 5",
+            "IONIQ 6",
+            "Staria",
+            "i10",
+            "i20",
+            "i30"
+          ]
+        },
+        {
+          "id": 20,
+          "country": "Janubiy Koreya",
+          "brand": "Kia",
+          "models": [
+            "Rio",
+            "Cerato/Forte",
+            "K5/Optima",
+            "K8",
+            "Sportage",
+            "Sorento",
+            "Seltos",
+            "Sonet",
+            "Stonic",
+            "Soul",
+            "Carnival",
+            "EV6",
+            "EV9",
+            "Niro",
+            "Telluride"
+          ]
+        },
+        {
+          "id": 21,
+          "country": "Janubiy Koreya",
+          "brand": "Genesis",
+          "models": [
+            "G70",
+            "G80",
+            "G90",
+            "GV60",
+            "GV70",
+            "GV80",
+            "Electrified G80",
+            "Electrified GV70"
+          ]
+        },
+        {
+          "id": 22,
+          "country": "Janubiy Koreya",
+          "brand": "SsangYong/KG Mobility",
+          "models": [
+            "Torres",
+            "Rexton",
+            "Korando",
+            "Tivoli",
+            "Musso"
+          ]
+        },
+        {
+          "id": 23,
+          "country": "AQSh",
+          "brand": "Ford",
+          "models": [
+            "Mustang",
+            "F-150",
+            "Explorer",
+            "Escape",
+            "Bronco",
+            "Bronco Sport",
+            "Expedition",
+            "Edge",
+            "Ranger",
+            "Maverick",
+            "Mustang Mach-E",
+            "F-150 Lightning"
+          ]
+        },
+        {
+          "id": 24,
+          "country": "AQSh",
+          "brand": "Chevrolet",
+          "models": [
+            "Malibu",
+            "Camaro",
+            "Corvette",
+            "Equinox",
+            "Traverse",
+            "Tahoe",
+            "Suburban",
+            "Blazer",
+            "Trailblazer",
+            "Silverado",
+            "Colorado",
+            "Bolt EV",
+            "Trax",
+            "Matiz",
+            "Spark",
+            "Nexia",
+            "Cobalt",
+            "Tiko",
+            "Nexia 2",
+            "Nexia 3",
+            "Lacetti",
+            "Epica",
+            "Tracker",
+            "Onix",
+            "Captiva",
+            "Damas",
+            "Monza",
+            "Cruze",
+            "Aveo",
+            "2500",
+            "C10",
+            "Chevelle",
+            "Niva",
+            "Lanos",
+            "Orlando",
+            "Tacuma",
+            "Van",
+            "Omega",
+            "Vectra",
+            "Menlo"
+          ]
+        },
+        {
+          "id": 25,
+          "country": "AQSh",
+          "brand": "Tesla",
+          "models": [
+            "Model 3",
+            "Model Y",
+            "Model S",
+            "Model X",
+            "Cybertruck",
+            "Semi",
+            "Roadster"
+          ]
+        },
+        {
+          "id": 26,
+          "country": "AQSh",
+          "brand": "Cadillac",
+          "models": [
+            "CT4",
+            "CT5",
+            "Escalade",
+            "XT4",
+            "XT5",
+            "XT6",
+            "Lyriq",
+            "Celestiq",
+            "Optiq"
+          ]
+        },
+        {
+          "id": 27,
+          "country": "AQSh",
+          "brand": "Jeep",
+          "models": [
+            "Wrangler",
+            "Grand Cherokee",
+            "Cherokee",
+            "Compass",
+            "Renegade",
+            "Gladiator",
+            "Wagoneer",
+            "Grand Wagoneer",
+            "Avenger"
+          ]
+        },
+        {
+          "id": 28,
+          "country": "AQSh",
+          "brand": "Dodge",
+          "models": [
+            "Charger",
+            "Durango",
+            "Hornet"
+          ]
+        },
+        {
+          "id": 29,
+          "country": "AQSh",
+          "brand": "Lincoln",
+          "models": [
+            "Corsair",
+            "Nautilus",
+            "Aviator",
+            "Navigator"
+          ]
+        },
+        {
+          "id": 30,
+          "country": "AQSh",
+          "brand": "Chrysler",
+          "models": [
+            "300",
+            "Pacifica",
+            "Voyager"
+          ]
+        },
+        {
+          "id": 31,
+          "country": "AQSh",
+          "brand": "GMC",
+          "models": [
+            "Sierra",
+            "Canyon",
+            "Yukon",
+            "Acadia",
+            "Terrain",
+            "Hummer EV"
+          ]
+        },
+        {
+          "id": 32,
+          "country": "AQSh",
+          "brand": "Ram",
+          "models": [
+            "1500",
+            "2500",
+            "3500",
+            "ProMaster"
+          ]
+        },
+        {
+          "id": 33,
+          "country": "AQSh",
+          "brand": "Buick",
+          "models": [
+            "Enclave",
+            "Envision",
+            "Encore GX",
+            "Envista"
+          ]
+        },
+        {
+          "id": 34,
+          "country": "Fransiya",
+          "brand": "Peugeot",
+          "models": [
+            "208",
+            "308",
+            "408",
+            "508",
+            "2008",
+            "3008",
+            "5008",
+            "e-208",
+            "e-308",
+            "e-2008",
+            "Rifter",
+            "Partner"
+          ]
+        },
+        {
+          "id": 35,
+          "country": "Fransiya",
+          "brand": "Renault",
+          "models": [
+            "Clio",
+            "Megane",
+            "Austral",
+            "Captur",
+            "Kadjar",
+            "Koleos",
+            "Arkana",
+            "Scenic",
+            "Talisman",
+            "Duster",
+            "Symbioz",
+            "Rafale",
+            "Megane E-Tech"
+          ]
+        },
+        {
+          "id": 36,
+          "country": "Fransiya",
+          "brand": "Citroën",
+          "models": [
+            "C3",
+            "C4",
+            "C5 X",
+            "C3 Aircross",
+            "C5 Aircross",
+            "Berlingo",
+            "ë-C4",
+            "Ami"
+          ]
+        },
+        {
+          "id": 37,
+          "country": "Fransiya",
+          "brand": "DS Automobiles",
+          "models": [
+            "DS 3",
+            "DS 4",
+            "DS 7",
+            "DS 9"
+          ]
+        },
+        {
+          "id": 38,
+          "country": "Fransiya",
+          "brand": "Alpine",
+          "models": [
+            "A110",
+            "A290"
+          ]
+        },
+        {
+          "id": 39,
+          "country": "Italiya",
+          "brand": "Fiat",
+          "models": [
+            "500",
+            "Panda",
+            "Tipo",
+            "500X",
+            "500e",
+            "Doblo",
+            "Topolino"
+          ]
+        },
+        {
+          "id": 40,
+          "country": "Italiya",
+          "brand": "Alfa Romeo",
+          "models": [
+            "Giulia",
+            "Stelvio",
+            "Tonale",
+            "Junior",
+            "33 Stradale"
+          ]
+        },
+        {
+          "id": 41,
+          "country": "Italiya",
+          "brand": "Ferrari",
+          "models": [
+            "296 GTB",
+            "296 GTS",
+            "SF90 Stradale",
+            "Roma",
+            "Purosangue",
+            "812 Competizione",
+            "F80",
+            "12Cilindri"
+          ]
+        },
+        {
+          "id": 42,
+          "country": "Italiya",
+          "brand": "Lamborghini",
+          "models": [
+            "Huracán",
+            "Urus",
+            "Revuelto",
+            "Temerario"
+          ]
+        },
+        {
+          "id": 43,
+          "country": "Italiya",
+          "brand": "Maserati",
+          "models": [
+            "Ghibli",
+            "Quattroporte",
+            "Levante",
+            "MC20",
+            "Grecale",
+            "GranTurismo",
+            "GranCabrio"
+          ]
+        },
+        {
+          "id": 44,
+          "country": "Italiya",
+          "brand": "Pagani",
+          "models": [
+            "Huayra",
+            "Utopia"
+          ]
+        },
+        {
+          "id": 45,
+          "country": "Italiya",
+          "brand": "Lancia",
+          "models": [
+            "Ypsilon"
+          ]
+        },
+        {
+          "id": 46,
+          "country": "Buyuk Britaniya",
+          "brand": "Rolls-Royce",
+          "models": [
+            "Phantom",
+            "Ghost",
+            "Wraith",
+            "Dawn",
+            "Cullinan",
+            "Spectre"
+          ]
+        },
+        {
+          "id": 47,
+          "country": "Buyuk Britaniya",
+          "brand": "Bentley",
+          "models": [
+            "Continental GT",
+            "Flying Spur",
+            "Bentayga"
+          ]
+        },
+        {
+          "id": 48,
+          "country": "Buyuk Britaniya",
+          "brand": "Aston Martin",
+          "models": [
+            "Vantage",
+            "DB12",
+            "DBS",
+            "DBX",
+            "Valkyrie",
+            "Valhalla"
+          ]
+        },
+        {
+          "id": 49,
+          "country": "Buyuk Britaniya",
+          "brand": "Jaguar",
+          "models": [
+            "F-Pace",
+            "E-Pace",
+            "I-Pace",
+            "F-Type",
+            "XE",
+            "XF"
+          ]
+        },
+        {
+          "id": 50,
+          "country": "Buyuk Britaniya",
+          "brand": "Land Rover",
+          "models": [
+            "Defender",
+            "Discovery",
+            "Discovery Sport",
+            "Range Rover",
+            "Range Rover Sport",
+            "Range Rover Velar",
+            "Range Rover Evoque"
+          ]
+        },
+        {
+          "id": 51,
+          "country": "Buyuk Britaniya",
+          "brand": "McLaren",
+          "models": [
+            "750S",
+            "Artura",
+            "GTS",
+            "W1"
+          ]
+        },
+        {
+          "id": 52,
+          "country": "Buyuk Britaniya",
+          "brand": "Lotus",
+          "models": [
+            "Emira",
+            "Eletre",
+            "Emeya"
+          ]
+        },
+        {
+          "id": 53,
+          "country": "Buyuk Britaniya",
+          "brand": "MG",
+          "models": [
+            "MG4",
+            "MG5",
+            "ZS",
+            "HS",
+            "MG3",
+            "Cyberster"
+          ]
+        },
+        {
+          "id": 54,
+          "country": "Shvetsiya",
+          "brand": "Volvo",
+          "models": [
+            "S60",
+            "S90",
+            "V60",
+            "V90",
+            "XC40",
+            "XC60",
+            "XC90",
+            "C40 Recharge",
+            "EX30",
+            "EX90",
+            "EM90"
+          ]
+        },
+        {
+          "id": 55,
+          "country": "Shvetsiya",
+          "brand": "Polestar",
+          "models": [
+            "Polestar 2",
+            "Polestar 3",
+            "Polestar 4",
+            "Polestar 5"
+          ]
+        },
+        {
+          "id": 56,
+          "country": "Shvetsiya",
+          "brand": "Koenigsegg",
+          "models": [
+            "Jesko",
+            "Gemera",
+            "CC850"
+          ]
+        },
+        {
+          "id": 57,
+          "country": "Chexiya",
+          "brand": "Škoda",
+          "models": [
+            "Fabia",
+            "Octavia",
+            "Superb",
+            "Kamiq",
+            "Karoq",
+            "Kodiaq",
+            "Enyaq",
+            "Scala",
+            "Elroq"
+          ]
+        },
+        {
+          "id": 58,
+          "country": "Ruminiya",
+          "brand": "Dacia",
+          "models": [
+            "Sandero",
+            "Duster",
+            "Jogger",
+            "Spring",
+            "Bigster"
+          ]
+        },
+        {
+          "id": 59,
+          "country": "Ispaniya",
+          "brand": "SEAT",
+          "models": [
+            "Ibiza",
+            "Leon",
+            "Arona",
+            "Ateca",
+            "Tarraco"
+          ]
+        },
+        {
+          "id": 60,
+          "country": "Ispaniya",
+          "brand": "Cupra",
+          "models": [
+            "Born",
+            "Formentor",
+            "Leon",
+            "Ateca",
+            "Tavascan",
+            "Terramar"
+          ]
+        },
+        {
+          "id": 61,
+          "country": "Xitoy",
+          "brand": "BYD",
+          "models": [
+            "Seal",
+            "Han",
+            "Tang",
+            "Song Plus",
+            "Yuan Plus (Atto 3)",
+            "Dolphin",
+            "Seagull",
+            "Qin Plus",
+            "Destroyer 05",
+            "Denza D9",
+            "Yangwang U8"
+          ]
+        },
+        {
+          "id": 62,
+          "country": "Xitoy",
+          "brand": "Geely",
+          "models": [
+            "Coolray",
+            "Atlas Pro",
+            "Monjaro",
+            "Emgrand",
+            "Tugella",
+            "Preface",
+            "Galaxy E8",
+            "Galaxy L7"
+          ]
+        },
+        {
+          "id": 63,
+          "country": "Xitoy",
+          "brand": "Chery",
+          "models": [
+            "Tiggo 4 Pro",
+            "Tiggo 7 Pro",
+            "Tiggo 8 Pro",
+            "Arrizo 8",
+            "Arrizo 6",
+            "Fulwin"
+          ]
+        },
+        {
+          "id": 64,
+          "country": "Xitoy",
+          "brand": "Haval (Great Wall)",
+          "models": [
+            "Jolion",
+            "F7",
+            "F7x",
+            "H6",
+            "H9",
+            "Dargo",
+            "Raptor"
+          ]
+        },
+        {
+          "id": 65,
+          "country": "Xitoy",
+          "brand": "Changan",
+          "models": [
+            "CS35 Plus",
+            "CS55 Plus",
+            "CS75 Plus",
+            "CS85",
+            "UNI-T",
+            "UNI-K",
+            "UNI-V",
+            "Eado Plus",
+            "Hunter"
+          ]
+        },
+        {
+          "id": 66,
+          "country": "Xitoy",
+          "brand": "NIO",
+          "models": [
+            "ET5",
+            "ET7",
+            "ES6",
+            "ES7",
+            "ES8",
+            "EC6",
+            "EC7",
+            "EL8"
+          ]
+        },
+        {
+          "id": 67,
+          "country": "Xitoy",
+          "brand": "Xpeng",
+          "models": [
+            "G3",
+            "G6",
+            "G9",
+            "P5",
+            "P7",
+            "X9"
+          ]
+        },
+        {
+          "id": 68,
+          "country": "Xitoy",
+          "brand": "Li Auto",
+          "models": [
+            "L6",
+            "L7",
+            "L8",
+            "L9",
+            "Mega"
+          ]
+        },
+        {
+          "id": 69,
+          "country": "Xitoy",
+          "brand": "Zeekr",
+          "models": [
+            "001",
+            "007",
+            "009",
+            "X",
+            "Mix"
+          ]
+        },
+        {
+          "id": 70,
+          "country": "Xitoy",
+          "brand": "Lynk & Co",
+          "models": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "09"
+          ]
+        },
+        {
+          "id": 71,
+          "country": "Xitoy",
+          "brand": "Omoda",
+          "models": [
+            "C5",
+            "E5"
+          ]
+        },
+        {
+          "id": 72,
+          "country": "Xitoy",
+          "brand": "Jetour",
+          "models": [
+            "Dashing",
+            "X70 Plus",
+            "X90 Plus",
+            "T2"
+          ]
+        },
+        {
+          "id": 73,
+          "country": "Xitoy",
+          "brand": "Exeed",
+          "models": [
+            "TXL",
+            "VX",
+            "LX",
+            "RX"
+          ]
+        },
+        {
+          "id": 74,
+          "country": "Xitoy",
+          "brand": "Tank (Great Wall)",
+          "models": [
+            "300",
+            "400",
+            "500",
+            "700"
+          ]
+        },
+        {
+          "id": 75,
+          "country": "Xitoy",
+          "brand": "Hongqi",
+          "models": [
+            "H5",
+            "H9",
+            "E-HS9",
+            "HS5",
+            "HS7",
+            "L5"
+          ]
+        },
+        {
+          "id": 76,
+          "country": "Xitoy",
+          "brand": "GAC",
+          "models": [
+            "GS3",
+            "GS4",
+            "GS8",
+            "Aion S",
+            "Aion Y",
+            "Aion V",
+            "Aion LX"
+          ]
+        },
+        {
+          "id": 77,
+          "country": "Xitoy",
+          "brand": "Dongfeng",
+          "models": [
+            "AX7",
+            "Rich",
+            "Shine Max",
+            "Aeolus Huge",
+            "Voyah Free",
+            "Voyah Dream"
+          ]
+        },
+        {
+          "id": 78,
+          "country": "Xitoy",
+          "brand": "Wuling",
+          "models": [
+            "Mini EV",
+            "Air EV",
+            "Almaz RS",
+            "Starlight"
+          ]
+        },
+        {
+          "id": 79,
+          "country": "Hindiston",
+          "brand": "Tata",
+          "models": [
+            "Nexon",
+            "Harrier",
+            "Safari",
+            "Punch",
+            "Altroz",
+            "Tiago",
+            "Tigor",
+            "Curvv"
+          ]
+        },
+        {
+          "id": 80,
+          "country": "Hindiston",
+          "brand": "Mahindra",
+          "models": [
+            "XUV700",
+            "Scorpio-N",
+            "Thar",
+            "XUV300",
+            "XUV400",
+            "Bolero"
+          ]
+        },
+        {
+          "id": 81,
+          "country": "Malayziya",
+          "brand": "Proton",
+          "models": [
+            "Saga",
+            "Persona",
+            "Iriz",
+            "X50",
+            "X70",
+            "X90"
+          ]
+        },
+        {
+          "id": 82,
+          "country": "Malayziya",
+          "brand": "Perodua",
+          "models": [
+            "Myvi",
+            "Ativa",
+            "Aruz",
+            "Bezza",
+            "Alza",
+            "Axia"
+          ]
+        },
+        {
+          "id": 83,
+          "country": "Rossiya",
+          "brand": "Lada (AvtoVAZ)",
+          "models": [
+            "Vesta",
+            "Granta",
+            "Niva Travel",
+            "Niva Legend",
+            "Largus",
+            "Aura"
+          ]
+        },
+        {
+          "id": 84,
+          "country": "Rossiya",
+          "brand": "UAZ",
+          "models": [
+            "Patriot",
+            "Hunter",
+            "Profi",
+            "Buhanka (SGR)"
+          ]
+        },
+        {
+          "id": 85,
+          "country": "Eron",
+          "brand": "Iran Khodro",
+          "models": [
+            "Tara",
+            "Dena",
+            "Samand",
+            "Peugeot Pars",
+            "Haima S5",
+            "Haima S7"
+          ]
+        },
+        {
+          "id": 86,
+          "country": "Eron",
+          "brand": "SAIPA",
+          "models": [
+            "Shahin",
+            "Quick",
+            "Tiba",
+            "Saina"
+          ]
+        },
+        {
+          "id": 87,
+          "country": "Turkiya",
+          "brand": "TOGG",
+          "models": [
+            "T10X",
+            "T10F (sedan)"
+          ]
+        },
+        {
+          "id": 88,
+          "country": "Vyetnam",
+          "brand": "VinFast",
+          "models": [
+            "VF 3",
+            "VF 5",
+            "VF 6",
+            "VF 7",
+            "VF 8",
+            "VF 9",
+            "VF e34"
+          ]
+        }
+      ]
+    }
+  ]
+}
