@@ -18,6 +18,7 @@ class m260608_121702_create_department_table extends Migration
             'title' => $this->string(),
             'title_ru' => $this->string(),
             'uid' => $this->integer(),
+            'root_department_id' => $this->integer(),
             'tin' => $this->string(20),
             'status' => $this->integer()->defaultValue(1)->notNull(),
             'created_at' => $this->integer(),
@@ -28,9 +29,9 @@ class m260608_121702_create_department_table extends Migration
             'deleted_by' => $this->integer(),
             'is_deleted' => $this->boolean()->defaultValue(false)->notNull(),
         ]);
-        $this->createIndex('idx_department_uid', '{{%department}}', 'uid', true);
-        $this->createIndex('idx_department_parent_id', '{{%department}}', 'parent_id', true);
-        $this->createIndex('idx_department_title', '{{%department}}', 'title', true);
+        $this->createIndex('idx_department_uid', '{{%department}}', 'uid');
+        $this->createIndex('idx_department_parent_id', '{{%department}}', 'parent_id');
+        $this->createIndex('idx_department_title', '{{%department}}', 'title');
     }
 
     /**

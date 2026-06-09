@@ -1,9 +1,11 @@
 <?php
 require_once dirname(__DIR__).'../../api/helpers/function.php';
+
 return [
     'id' => 'console',
     'basePath' => dirname(__DIR__),
     'controllerNamespace' => 'console\controllers',
+    'params' => require __DIR__ . '/../../common/config/params.php',
     'language' => 'uz',
     'sourceLanguage' => 'uz',
     'controllerMap' => [

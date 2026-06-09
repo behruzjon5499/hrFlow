@@ -2,14 +2,14 @@
 
 namespace console\controllers;
 
-use common\models\Currency;
+use common\models\Department;
 use yii\console\Controller;
 use yii\httpclient\Client;
 
 class DepartmentController extends Controller
 {
 
-    public function actionsSync()
+    public function actionSync()
     {
         $innList =  ['201059101'];
 
@@ -136,9 +136,6 @@ class DepartmentController extends Controller
                     $model->title = (string)($uz['name'] ?? $ru['name'] ?? '');
                     $model->title_ru = (string)($ru['name'] ?? $uz['name'] ?? '');
                     $model->tin = (string)$inn;
-                    // Coordinator subtree rule:
-                    // if this department is `digital_technology_id` OR inside its children -> is_coordinator=1
-                    $model->is_coordinator = $isCoordinatorTree ? 1 : (int)($uz['isCoordinator'] ?? $ru['isCoordinator'] ?? 0);
                     $model->status = 1;
 
                     if (!$model->save()) {
